@@ -2,7 +2,7 @@
 
 An AI-powered shopping assistant that helps users find the best deals on electronics (mobiles, laptops, earphones, and more) in India. Built as a school project with a stunning glassmorphism UI, real-time deal fetching, and a dynamic chat interface.
 
-![AI Bargain Hunter Screenshot](assets/screenshot1.png)
+![AI Bargain Hunter Screenshot](assets/Screenshot1.png)
 
 ## ✨ Features
 - **Smart Search**: Search for products with price filters (e.g., "laptops under 50000").
@@ -14,7 +14,7 @@ An AI-powered shopping assistant that helps users find the best deals on electro
 ## 📸 Screenshots
 | Chat Interface | Developer Section |
 |----------------|-------------------|
-| ![Chat Interface](assets/screenshot1.png) | ![Developer Section](assets/screenshot3.png) |
+| ![Chat Interface](assets/Screenshot1.png) | ![Developer Section](assets/Screenshot3.png) |
 
 ## 🎥 Demo
 Watch a quick demo of the app in action:  
