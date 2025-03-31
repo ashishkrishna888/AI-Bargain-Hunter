@@ -1,0 +1,1021 @@
+,name,price,rating,wifi,GPS,NFC,voice_calling,Bluetooth,Bluetooth_calling,display_size_inches,Touch,ram_gb,memory_inbuilt,water_resistance,dust_proof,scratch_resistance,heart_rate_monitor,Blood_Pressure_monitor,calorie_count,sleep_monitor,step_count,Pedometer,Blood_oxygen,Altimeter,alarm_clock,stopwatch,reminder,timer,battery
+0,OnePlus Watch 2,24999,4.35,True,True,True,False,Bluetooth 5.0,True,1.43,True,2.0,32.0,True,True,True,True,False,False,False,False,False,True,False,False,False,False,False,
+1,Fire Boltt Dream WristPhone Smartwatch,6999,4.25,True,True,False,True,Bluetooth 5.0,False,2.02,True,2.0,16.0,True,False,False,True,False,False,False,False,False,True,False,False,False,False,False,
+2,Samsung Galaxy Watch 4 Classic LTE 46mm,10999,4.35,True,True,True,False,Bluetooth 5.0,False,1.4,True,1.5,16.0,True,True,True,True,False,False,False,False,False,True,False,False,False,False,False,
+3,Fastrack Optimus Pro Smartwatch,2299,4.35,False,False,False,False,Bluetooth 5.2,True,1.43,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+4,Oppo Watch X,12999,4.05,True,True,True,False,Bluetooth 5.0,True,1.43,True,2.0,32.0,True,True,True,True,False,False,False,False,False,True,False,False,False,False,False,
+5,Noise NoiseFit Venture Smartwatch,1499,4.45,False,False,False,False,Bluetooth 5.2,True,1.39,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+6,Fire Boltt Sphere Smartwatch,1299,4.35,False,False,False,False,Bluetooth 5.0,True,1.6,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+7,Alt OG Ultra Smartwatch,900,4.6,False,False,False,False,Bluetooth,True,1.93,True,1.0,2.0,True,False,False,True,False,True,True,True,True,True,False,False,False,False,False,
+8,Xiaomi Redmi Watch 4,8799,4.0,False,True,False,False,Bluetooth 5.3,True,1.97,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+9,Fastrack Revoltt FS1 Pro Smartwatch,1999,4.75,False,False,False,False,Bluetooth 5.2,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+10,Fire Boltt Oracle WristPhone,24999,4.25,True,True,False,True,Bluetooth 5.0,False,1.96,True,2.0,16.0,True,False,False,True,False,False,False,False,False,True,False,False,False,False,False,
+11,Samsung Galaxy Watch 4 Classic 46mm Bluetooth,9030,4.6,True,True,True,False,Bluetooth 5.0,False,1.4,True,1.5,16.0,True,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+12,Noise NoiseFit Twist Go Smartwatch,1299,4.5,False,False,False,False,Bluetooth 5.3,True,1.39,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+13,Xiaomi Watch 2 Pro,16999,4.2,False,True,False,True,Bluetooth,False,1.43,True,2.0,32.0,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,
+14,Fastrack Revoltt XR1 Smartwatch,1299,4.35,False,False,False,False,Bluetooth 5.3,True,1.38,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,7days Battery
+15,CMF Watch Pro,3499,4.05,False,True,False,False,Bluetooth 5.3,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+16,Amazfit Pop 3R Smartwatch,2899,4.65,True,False,False,False,Bluetooth 5.2,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,True,False,False,False,False,
+17,OnePlus Watch 4,19999,4.5,True,True,True,True,Bluetooth 5.3,False,1.4,True,,,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+18,Noise NoiseFit Halo Plus Elite Edition Smartwatch,3299,4.55,False,False,False,False,Bluetooth 5.3,True,1.46,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+19,Fire Boltt Legacy Smartwatch,2199,4.05,False,False,False,False,Bluetooth 5.0,True,1.43,True,,,False,False,True,True,False,True,True,True,False,True,False,False,False,False,False,
+20,Garmin Forerunner 165 Smartwatch,24999,4.7,True,True,True,False,Bluetooth,False,1.2,True,,4.0,True,True,False,True,False,True,True,True,True,True,True,False,False,False,False,
+21,Asus VivoWatch 6,15999,4.2,False,True,False,False,Bluetooth,False,1.36,True,,,False,False,False,True,True,True,True,True,True,True,True,True,True,True,True,
+22,Cult Shock X Smartwatch,1999,4.55,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,True,True,True,True,True,True,True,True,False,False,False,False,False,
+23,Itel Icon Series Smartwatch,1999,4.45,False,False,False,False,Bluetooth,True,1.96,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+24,Xiaomi Watch S3,9199,4.25,True,True,True,False,Bluetooth,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,True,False,False,False,False,
+25,Apple Watch Series 9 45mm (GPS+Cellular),44999,4.15,True,True,True,True,Bluetooth 5.3,True,1.77,True,,64.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+26,OnePlus Watch 3,26999,4.5,True,True,True,False,Bluetooth,True,1.46,True,3.0,32.0,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+27,Amazfit Pop 3S Smartwatch,2594,4.35,False,False,False,False,Bluetooth,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,True,False,False,False,False,
+28,Fire Boltt Phoenix Pro Smartwatch,1099,4.4,False,False,False,False,Bluetooth 5.0,True,1.39,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+29,Huawei Watch Buds,34999,4.5,False,True,True,False,Bluetooth 5.2,True,1.3,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+30,boAt Watch Blaze Smartwatch,999,4.15,False,False,False,False,Bluetooth 5.0,False,1.75,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,10days Battery
+31,Noise ColorFit Macro Smartwatch,1499,4.2,False,False,False,False,Bluetooth 5.3,True,2.0,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+32,Pebble Cosmos Luxe 3 Smartwatch,1899,4.25,False,False,False,False,Bluetooth 5.0,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+33,boAt Wave Spectra Smartwatch,2799,4.65,False,False,False,False,Bluetooth,True,2.04,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,
+34,Honor Choice Watch,5999,4.2,False,True,False,False,Bluetooth 5.3,True,1.95,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+35,Fire Boltt Expedition Smartwatch,1999,4.15,False,False,False,False,Bluetooth 5.0,True,1.39,True,,,False,True,True,True,False,True,True,True,True,True,True,False,False,False,False,
+36,Fastrack Optimus Smartwatch,2499,4.0,False,False,False,False,Bluetooth 5.3,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+37,Samsung Galaxy Watch 7 Pro,56999,4.0,False,True,True,True,Bluetooth 5.3,False,1.5,True,3.0,32.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+38,Samsung Galaxy Watch 7,37999,4.35,True,True,True,True,Bluetooth 5.3,False,1.54,True,2.0,16.0,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,
+39,Fire Boltt Cyclone Smartwatch,1520,4.45,False,False,True,False,Bluetooth 5.0,True,1.6,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,
+40,Boult Crown Smartwatch,1299,4.35,False,False,False,False,Bluetooth 5.2,True,1.95,True,,,False,True,True,True,True,True,True,True,True,True,False,False,False,False,False,
+41,Fire Boltt Artillery Smartwatch,1999,4.2,False,False,False,False,Bluetooth,True,1.5,True,,,False,True,True,True,False,True,True,True,True,True,True,False,False,False,False,
+42,Samsung Galaxy Watch 6 Classic LTE 47mm,40980,4.3,True,True,True,True,Bluetooth 5.3,False,1.5,True,2.0,16.0,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,
+43,Fastrack Revoltt FS1 Smartwatch,1099,4.75,False,False,False,False,Bluetooth 5.2,True,1.83,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,7days Battery
+44,Noise NoiseFit Halo Smartwatch,2499,4.6,False,False,False,False,Bluetooth 5.3,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+45,beatXP Vega X Smartwatch,1299,4.2,False,False,False,False,Bluetooth 5.2,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+46,Apple Watch Series 9 41mm (GPS),32999,4.15,True,True,True,False,Bluetooth 5.3,True,1.61,True,,64.0,True,True,True,True,True,False,False,False,False,True,False,False,False,False,False,
+47,Fire Boltt Dazzle Plus Smartwatch,800,4.45,False,False,False,False,Bluetooth 5.1,True,1.83,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+48,Noise ColorFit Pulse 2 Max Smartwatch,1099,4.75,False,False,False,False,Bluetooth 5.3,True,1.85,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+49,Noise NoiseFit Evolve 3 Smartwatch,1899,4.55,False,False,False,False,Bluetooth 5.3,True,1.43,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,
+50,Amazfit GTR 2 New Version Smartwatch,5999,4.15,False,False,False,False,,False,,True,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,11-day Battery Life
+51,Samsung Galaxy Watch 5 Bluetooth 44mm,30999,4.0,False,True,True,False,Bluetooth 5.2,True,1.4,True,1.5,16.0,True,True,True,True,True,False,False,False,False,True,False,False,False,False,False,
+52,Samsung Galaxy Watch 4 Bluetooth 40mm,9999,4.15,True,True,True,False,Bluetooth 5.0,False,1.2,True,1.5,16.0,True,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+53,Samsung Galaxy Watch 4 Classic 42mm Bluetooth,11399,4.1,True,True,True,False,Bluetooth 5.0,False,1.2,True,1.5,16.0,True,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+54,Samsung Galaxy Watch 4 44mm Bluetooth,10999,4.05,False,False,False,False,,False,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,
+55,Samsung Galaxy Watch 4 LTE 40mm,11999,4.6,True,True,True,False,Bluetooth 5.0,False,1.2,True,1.5,16.0,True,True,True,True,False,False,False,False,False,True,False,False,False,False,False,
+56,Pebble Royale Smartwatch,4299,4.15,False,False,False,False,Bluetooth 5.0,True,1.43,True,,,False,False,False,True,False,False,True,True,True,True,False,True,True,True,True,
+57,Fastrack Revoltt FR1 Pro Smartwatch,2499,4.0,False,False,False,False,Bluetooth 5.2,True,1.3,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+58,Apple Watch Ultra 3,93999,4.3,True,True,True,True,Bluetooth 5.3,False,1.93,True,2.0,64.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+59,Xiaomi Watch 2,17999,4.75,True,False,True,False,Bluetooth 5.2,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+60,WatchOut WearPods Teens Smartwatch,5999,4.75,False,True,False,False,Bluetooth,True,1.96,True,,,False,False,False,True,True,False,False,True,True,False,False,False,False,False,False,10days Battery
+61,PunnkFunnk SK10 Smartwatch,2699,4.25,False,False,False,False,Bluetooth 5.0,True,1.36,True,,,False,True,False,True,False,False,True,True,True,True,False,False,False,False,False,
+62,Noise NoiseFit Vortex Plus Smartwatch,2199,4.2,False,False,False,False,Bluetooth 5.3,True,1.46,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+63,PunnkFunnk GM1 Smartwatch,2999,4.6,False,False,False,False,Bluetooth 5.2,True,1.56,True,,,False,True,False,True,False,False,True,True,True,True,False,False,False,False,False,
+64,boAt Enigma X700 Smartwatch,3999,4.55,False,False,False,False,Bluetooth,True,1.52,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+65,boAt Lunar Link Smartwatch,1499,4.05,False,False,False,False,Bluetooth 5.3,True,1.4,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+66,Fire Boltt Royale Smartwatch,4399,4.15,False,False,False,False,Bluetooth,True,1.43,True,,4.0,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+67,boAt Lunar Pro LTE Smartwatch,9999,4.25,False,True,False,True,Bluetooth,False,1.39,True,,,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+68,Alt T800 Smartwatch,671,4.2,False,True,False,False,Bluetooth 4.1,True,1.93,True,,,False,False,False,False,True,True,True,True,True,True,False,False,False,False,False,5days Battery
+69,boAt Lunar Embrace Smartwatch,2899,4.15,False,False,False,False,Bluetooth,True,1.51,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+70,Fastrack Limitless FS2 Smartwatch,1999,4.55,False,False,False,False,Bluetooth 5.3,True,1.91,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+71,itel ISW-42 Smartwatch,1599,4.45,False,False,False,False,Bluetooth 5.3,True,1.38,True,,,False,True,False,True,False,True,True,True,True,False,False,True,True,True,True,
+72,Fire Boltt Cyclone Pro Smartwatch,1499,4.6,False,False,False,False,Bluetooth 5.0,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,True,False,False,False,False,
+73,Honor Watch 4 Pro,15499,4.3,False,True,True,False,Bluetooth 5.2,True,1.85,True,,4.0,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+74,Apple Watch SE 2nd Gen 2023 40mm GPS,26910,4.5,True,True,True,False,Bluetooth 5.3,True,1.6,True,,32.0,True,True,True,True,True,False,False,False,False,True,False,False,False,False,False,
+75,Amazfit Balance Smartwatch,24199,4.15,True,True,True,False,Bluetooth 5.0,True,1.5,True,,2.0,True,True,True,True,False,False,False,False,False,True,False,False,False,False,False,
+76,Titan Smart 3.0 Smartwatch,4995,4.0,False,False,False,False,Bluetooth 5.2,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+77,Fire Boltt Crusader Smartwatch,1399,4.4,False,False,False,False,Bluetooth 5.0,True,1.43,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+78,Xiaomi Watch S3 LTE,11999,4.25,True,True,True,True,Bluetooth,False,1.43,True,,,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+79,Fire Boltt Phoenix AMOLED Ultra Ace Smartwatch,1899,4.75,False,False,False,False,Bluetooth 5.0,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+80,Huawei Watch GT 4 Pro,48999,4.4,True,True,True,True,Bluetooth 5.2,False,1.5,True,,,True,True,True,True,True,False,False,False,False,True,False,False,False,False,False,
+81,beatXP Marv Ace Smartwatch,999,4.3,False,False,False,False,Bluetooth BLE 5.3 + BT 3.0,True,1.85,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+82,Noise ColorFit Pro 5 Max Smartwatch,4399,4.3,False,False,False,False,Bluetooth 5.3,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+83,beatXP Sigma Smartwatch,799,4.55,False,False,False,False,Bluetooth,True,1.38,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+84,Fire Boltt Marshal Smartwatch,1699,4.4,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+85,boAt Wave Astra Smartwatch,1799,4.0,False,False,False,False,Bluetooth 5.2,True,1.83,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+86,boAt Lunar Space Smartwatch,999,4.1,False,False,False,False,Bluetooth 5.1,True,1.3,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+87,Samsung Galaxy Watch 6 Bluetooth 44mm,28050,4.6,True,True,True,False,Bluetooth 5.3,True,1.5,True,2.0,16.0,True,True,False,True,True,False,False,False,False,True,False,False,False,False,False,
+88,Fire Boltt Vogue Smartwatch,1600,4.3,False,False,False,False,Bluetooth,True,2.05,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+89,Redmi Watch 3 Active,2620,4.6,False,False,False,False,Bluetooth 5.3,True,1.83,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+90,Fire Boltt Asteroid Smartwatch,1999,4.15,False,False,False,False,Bluetooth 5.2,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+91,Fire Boltt Grenade Smartwatch,1299,4.0,False,False,False,False,Bluetooth 5.0,True,1.39,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,
+92,Fire Boltt Commando Smartwatch,1599,4.7,False,False,False,False,Bluetooth 5.0,True,1.96,True,,,False,True,True,True,False,True,True,True,True,False,False,False,False,False,False,9days Battery
+93,Fire Boltt Infinity Luxe Smartwatch,1999,4.1,False,False,False,False,Bluetooth 5.0,True,1.6,True,,4.0,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+94,beatXP Vega Neo Smartwatch,999,4.45,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+95,Samsung Galaxy Watch 6 Classic LTE 43mm,34850,4.15,True,True,True,True,Bluetooth 5.3,False,1.3,True,2.0,16.0,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,
+96,Noise NoiseFit Mettalix Smartwatch,1899,4.35,False,False,False,False,Bluetooth 5.3,True,1.4,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+97,Crossbeats Armour Dive Smartwatch,3699,4.5,False,False,False,False,Bluetooth 5.3,True,1.43,True,,,False,True,True,True,True,True,True,True,True,True,False,False,False,False,False,
+98,Fire Boltt Hunter Smartwatch,1399,4.55,False,False,False,False,Bluetooth 5.0,True,2.01,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,6days Battery
+99,Fastrack FR1 Smartwatch,1599,4.15,False,False,False,False,Bluetooth 5.2,True,1.39,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+100,Fastrack FR1 Pro Smartwatch,2499,4.35,False,False,False,False,Bluetooth 5.2,True,1.3,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+101,Fire Boltt Emperor Smartwatch,1899,4.7,False,False,False,False,Bluetooth 5.0,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+102,OnePlus Nord Watch 2,5499,4.65,False,False,False,False,Bluetooth 5.3,True,1.85,True,,,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+103,Fire Boltt Rock Smartwatch,2199,4.65,False,False,False,False,Bluetooth 5.0,True,1.3,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+104,Urban Revolt 2 Smartwatch,2999,4.45,False,False,False,False,Bluetooth 5.3,True,2.01,True,,,False,True,False,True,True,False,True,True,True,True,False,False,False,False,False,
+105,Noise NoiseFit Crew Pro Smartwatch,1299,4.5,False,False,False,False,Bluetooth 5.3,True,1.4,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+106,Noise NoiseFit Force Plus Smartwatch,1799,4.45,False,False,False,False,Bluetooth 5.3,True,1.46,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+107,Vehop Blaze Ultra Smartwatch,2499,4.15,False,True,True,False,Bluetooth 5.2,True,2.0,True,,,False,True,True,True,False,True,True,True,True,True,True,False,False,False,False,
+108,Apple Watch Ultra 2,84199,4.2,True,True,True,True,Bluetooth 5.3,False,1.93,True,2.0,64.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+109,Noise NoiseFit Evolve 4 Smartwatch,2299,4.6,False,False,False,False,Bluetooth 5.3,True,1.46,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+110,Huawei Watch GT 4 46mm,19999,4.55,True,False,True,False,Bluetooth 5.1,True,1.43,True,,,False,True,True,True,False,True,True,True,True,True,True,False,False,False,False,
+111,Fire Boltt Ninja Fit Smartwatch,794,4.15,False,False,False,False,Bluetooth,True,1.69,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+112,Fire Boltt Cobra Smartwatch,1699,4.7,False,False,False,False,Bluetooth,True,1.78,True,,,False,True,True,True,False,True,True,True,True,True,True,False,False,False,False,
+113,Noise NoiseFit Force Smartwatch,1499,4.3,False,False,False,False,Bluetooth 5.1,True,1.32,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+114,IBS Ultra T-800 Smartwatch,1299,4.45,False,False,False,False,Bluetooth,True,1.9,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,
+115,beatXP Marv Neo Smartwatch,999,4.1,False,False,False,False,Bluetooth 5.1,True,1.85,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,7days Battery
+116,Fire Boltt Gladiator Smartwatch,1299,4.45,False,False,False,False,Bluetooth,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+117,Amazfit Pop 2 Smartwatch,2499,4.1,False,False,False,False,Bluetooth 5.2,True,1.78,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+118,Fastrack Reflex VOX 2.0 Smartwatch,1294,4.35,False,False,False,False,Bluetooth,True,1.8,True,,,False,True,False,True,True,False,True,True,False,True,False,False,False,False,False,
+119,boAt Wave Ultima Max Smartwatch,999,4.7,False,False,False,False,Bluetooth 5.1,True,1.9,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+120,Apple Watch Series 8 41mm (GPS + Cellular),51999,4.65,True,True,False,False,Bluetooth 5.0,True,1.61,True,,32.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+121,Apple Watch Ultra,79900,4.3,True,True,True,True,Bluetooth 5.3,True,1.92,True,,32.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+122,Apple Watch Series 8 45mm (GPS + Cellular),54999,4.0,True,True,False,True,Bluetooth 5.0,False,1.77,True,1.0,32.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+123,Google Pixel Watch LTE,62344,4.05,True,True,True,True,Bluetooth 5.0,False,1.2,True,2.0,32.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+124,boAt Storm Call Smartwatch,1299,4.4,False,False,False,False,Bluetooth 5.0,True,1.69,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+125,Fire Boltt Hulk Smartwatch,1499,4.0,False,False,False,False,Bluetooth 5.0,True,1.78,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+126,Samsung Galaxy Watch 5 Bluetooth 40mm,27999,4.2,False,True,True,False,Bluetooth 5.2,True,1.2,True,1.5,16.0,True,False,True,True,True,False,False,False,False,True,False,False,False,False,False,
+127,Samsung Galaxy Watch 5 Pro LTE,28999,4.4,False,True,True,True,Bluetooth 5.2,False,1.4,True,1.5,16.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+128,Noise ColorFit Vision 2 Buzz Smartwatch,1699,4.65,False,False,False,False,Bluetooth 5.3,True,1.78,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,
+129,Amazfit GTS 4 Mini Smartwatch,7999,4.55,False,True,False,False,Bluetooth 5.2,False,1.65,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,15days Battery
+130,Noise ColorFit Icon 2 Smartwatch,1099,4.45,False,False,False,False,Bluetooth 5.1,True,1.8,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+131,Fire Boltt Hurricane Smartwatch,1099,4.4,False,False,False,False,Bluetooth 5.0,False,1.3,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,7days Battery
+132,Dizo Watch R,3299,4.55,False,False,False,False,Bluetooth 5.1,False,1.3,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,12days Battery
+133,Google Pixel Watch,24750,4.45,True,True,True,False,Bluetooth 5.0,True,1.2,True,2.0,32.0,True,True,True,True,True,False,False,False,False,True,False,False,False,False,False,
+134,Xiaomi Redmi Watch 2 Lite,1094,4.4,False,True,False,False,Bluetooth 5.0,False,1.55,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,5days Battery
+135,Apple Watch Series 8 41mm (GPS),41999,4.2,True,True,False,False,Bluetooth 5.0,True,1.61,True,,32.0,True,True,True,True,False,False,False,False,False,True,False,False,False,False,False,
+136,Samsung Galaxy Watch 4 LTE 44mm,16990,4.6,True,True,True,False,Bluetooth 5.0,False,1.4,True,1.5,16.0,True,True,True,True,False,False,False,False,False,True,False,False,False,False,False,
+137,Fire Boltt Talk BSW004 Smartwatch,1099,4.35,False,False,False,False,Bluetooth 5.0,True,1.28,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+138,Amazfit GTS 2 Smartwatch,8399,4.55,False,True,False,False,Bluetooth 5.0,False,1.65,True,,3.0,True,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+139,Urban Amaze Smartwatch,2299,4.7,False,False,False,False,Bluetooth 5.3,True,2.01,True,,,False,False,False,False,True,True,True,True,True,True,False,True,True,True,True,7days Battery
+140,Boult Rover Ultra Smartwatch,2999,4.25,False,False,False,False,Bluetooth 5.3,True,1.43,True,,,False,True,False,True,False,False,True,True,True,True,False,False,False,False,False,
+141,Boult Dive Pro Smartwatch,1999,4.4,False,False,False,False,Bluetooth 5.1,True,1.78,True,,,False,True,False,True,True,False,True,True,True,True,False,False,False,False,False,
+142,Boult Ripple Smartwatch,1999,4.7,False,False,False,False,Bluetooth 5.3,True,1.39,True,,,False,True,False,True,True,False,True,True,True,True,False,False,False,False,False,
+143,boAt Wave Sigma 3 Smartwatch,1399,4.6,False,False,False,False,Bluetooth,True,,True,,,False,False,False,True,False,False,True,True,True,True,False,True,True,True,True,
+144,boAt Wave Magma Smartwatch,1999,4.1,False,False,False,False,Bluetooth 5.3,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+145,Boult Dive Evo Smartwatch,1999,4.65,False,False,False,False,Bluetooth 5.2,True,1.95,True,,,False,True,False,True,True,False,True,True,True,True,False,False,False,False,False,
+146,Boult Ripple Pro Smartwatch,2999,4.75,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,False,True,True,False,True,True,True,True,False,False,False,False,False,
+147,Boult Dive X Smartwatch,1999,4.5,False,False,False,False,Bluetooth 5.3,True,2.0,True,,,False,True,False,True,True,False,True,True,True,True,False,False,False,False,False,
+148,EVM Envoke Smartwatch,1644,4.15,False,False,False,False,Bluetooth 5.2,True,1.39,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,3days Battery
+149,Garmin Forerunner 165 Music Smartwatch,29999,4.35,True,True,True,False,Bluetooth,False,1.2,True,,4.0,True,True,False,True,False,True,True,True,True,True,True,False,False,False,False,
+150,SHKOD Watch 1 Pro Smartwatch,2199,4.5,False,False,False,False,Bluetooth 5.3,True,1.83,True,,,False,False,False,True,True,False,True,True,True,True,False,True,True,True,True,
+151,SHKOD Watch 3 Pro Smartwatch,2299,4.6,False,False,False,False,Bluetooth 5.3,True,2.01,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,5days Battery
+152,Titan Traveller Smartwatch,12995,4.3,False,True,False,False,Bluetooth 5.3,True,1.78,True,,,False,True,False,True,False,False,True,True,True,True,False,False,False,False,False,
+153,Timex Tough Smartwatch,3495,4.5,False,False,False,False,Bluetooth,True,1.43,True,0.263671875,,True,False,True,True,False,False,False,False,False,True,False,False,False,False,False,
+154,Maxima Max Pro Velocity Smartwatch,1199,4.45,False,False,False,False,Bluetooth 5.2,True,1.83,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,3days Battery
+155,Crossbeats Everest Smartwatch,3999,4.1,False,False,False,False,Bluetooth 5.3,True,1.43,True,,,False,True,True,True,True,True,True,True,True,True,False,False,False,False,False,
+156,boAt Ultima Rise Smartwatch,1999,4.35,False,False,False,False,Bluetooth,True,1.83,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,
+157,Pebble Vienna Smartwatch,2299,4.7,False,False,False,False,Bluetooth 5.0,True,1.27,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+158,Melbon Kids A Smartwatch,1400,4.5,False,False,False,True,Bluetooth 5.0,False,2.0,True,,,False,False,True,True,True,True,True,True,True,True,False,False,False,False,False,
+159,Motorola Moto Watch 40,5299,4.45,False,False,False,False,Bluetooth 5.0,True,1.57,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+160,Melbon Active 2 Smartwatch,1799,4.15,False,False,False,False,Bluetooth 5.3,True,1.53,True,,,False,False,True,True,False,True,True,True,True,True,True,False,False,False,False,
+161,Punnk Funnk I8 Smartwatch,799,4.25,False,False,False,False,Bluetooth 5.0,True,1.55,True,,,False,False,False,False,True,True,True,True,True,True,False,True,True,True,True,5days Battery
+162,Time Up ACTG X Smartwatch,2575,4.75,False,False,False,False,Bluetooth 5.0,True,1.43,True,,,False,False,False,False,True,True,True,True,True,True,False,True,True,True,True,0.29days Battery
+163,Fire Boltt Spectre Smartwatch,3999,4.55,False,False,False,False,Bluetooth 5.0,True,1.32,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,
+164,TS Timestone Maximum Smartwatch,1912,4.6,False,False,False,False,Bluetooth,True,2.01,True,,,False,False,False,True,True,False,True,True,False,True,False,False,False,False,False,7days Battery
+165,Noise NoiseFit Posh Smartwatch,1799,4.45,False,False,False,False,Bluetooth 5.3,True,1.19,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+166,Gizmore Ultra Max Smartwatch,1499,4.3,False,False,False,False,Bluetooth,True,2.01,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,10days Battery
+167,Pebble Enigma Smartwatch,1999,4.3,False,False,False,False,Bluetooth 5.0,True,2.01,True,,,False,False,False,False,False,True,True,True,True,True,False,True,True,True,True,7days Battery
+168,Pebble Activ Smartwatch,1699,4.05,False,False,False,False,Bluetooth 5.0,True,1.83,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,5days Battery
+169,Nervfit Atomic Smartwatch,1649,4.0,False,False,False,False,Bluetooth ,True,1.28,True,,,False,False,False,False,True,True,True,True,True,True,False,True,True,True,True,7days Battery
+170,Nervfit Absolute Smartwatch,1799,4.55,False,False,False,False,Bluetooth,True,2.1,True,,,False,False,False,False,True,True,True,True,True,True,False,True,True,True,True,
+171,Hammer Active 2.0 Plus Smartwatch,2399,4.6,False,False,False,False,Bluetooth 5.3,True,2.1,True,,,False,False,False,True,True,True,True,True,True,True,False,True,True,True,True,
+172,Nu Republic Creed Max Smartwatch,1899,4.5,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+173,Masimo Freedom Smartwatch,8339,4.25,False,False,False,False,Bluetooth,True,,True,,,False,True,False,True,True,True,True,True,True,True,True,False,False,False,False,
+174,Maxima Max Pro Typhoon Smartwatch,1499,4.15,False,False,False,False,Bluetooth,True,1.9,True,,,False,True,False,True,False,False,True,True,False,True,False,False,False,False,False,
+175,PunnkFunnk GEN 12 Smartwatch,1999,4.5,False,False,False,False,Bluetooth,True,1.3,True,,,False,False,False,True,True,True,False,True,False,True,False,False,False,False,False,7days Battery
+176,Pebble Hive Smartwatch,1499,4.6,False,False,False,False,Bluetooth 5.0,True,1.39,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+177,Promate Xwatch R19 Smartwatch,5499,4.35,False,False,False,False,Bluetooth 5.1,True,1.53,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+178,Minarvo Cosmic Pro Smartwatch,2299,4.0,False,False,True,False,Bluetooth,True,2.2,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,5days Battery
+179,Maxima Max Pro Mirage Smartwatch,1199,4.4,False,False,False,False,Bluetooth 5.2,True,1.83,True,,,False,True,False,True,False,False,True,True,False,True,False,False,False,False,False,
+180,Garmin Lily 2 Smartwatch,24499,4.15,False,True,False,False,Bluetooth,False,,True,,,False,False,True,True,False,True,True,True,True,True,True,True,True,True,True,
+181,Zeblaze Ares 3 Pro,2399,4.7,False,False,False,False,Bluetooth 5.2,True,1.43,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+182,Timex iConnect EVO Plus Smartwatch,1895,4.45,False,False,False,False,Bluetooth,True,2.04,True,0.564453125,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+183,iQOO Watch LTE,14999,4.65,False,True,True,True,Bluetooth 5.2,False,1.43,True,4.0,,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,
+184,Timex FitGen Smartwatch,3495,4.5,False,False,False,False,Bluetooth,True,1.42,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+185,Noise ColorFit Chrome Smartwatch,4499,4.35,False,False,False,False,Bluetooth 5.3,True,1.85,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+186,Cellecor Ray Smartwatch,2399,4.4,False,False,False,False,Bluetooth,True,1.43,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+187,PunnkFunnk Active 2 Smartwatch,1999,4.15,False,False,False,False,Bluetooth 5.0,True,1.3,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,
+188,Fire Boltt Elemento Smartwatch,5224,4.45,False,False,True,False,Bluetooth,True,1.95,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+189,Kratos Ultra Pro SW18 Smartwatch,2086,4.55,False,False,False,False,Bluetooth,True,2.01,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+190,Noise ColorFit Pro 6 Smartwatch,4499,4.6,False,False,False,False,Bluetooth 5.3,True,1.95,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+191,Fire Boltt Huracan Smartwatch,5474,4.75,False,False,True,False,Bluetooth,True,1.95,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+192,Fossibot W101 Smartwatch,5899,4.05,False,True,False,False,Bluetooth 5.2,True,1.43,True,,,True,True,True,True,True,False,False,False,False,True,False,False,False,False,False,
+193,Fastrack Limitless Classic Smartwatch,2099,4.65,False,False,False,False,Bluetooth 5.3,True,1.9,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+194,Wachme Diamond Smartwatch,7499,4.0,True,True,False,True,,False,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,
+195,Fastrack Nitro Pro Smartwatch,4499,4.5,False,False,False,False,Bluetooth 5.3,True,1.85,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+196,Fastrack Limitless Valor Smartwatch,1999,4.45,False,False,False,False,Bluetooth 5.3,True,1.9,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,5days Battery
+197,Play Playfit Flaunt Plus Smartwatch,2999,4.25,False,False,False,False,Bluetooth 5.2,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+198,Fastrack Vivid Pro Smartwatch,3999,4.3,False,False,False,False,Bluetooth 5.3,True,1.43,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,5days Battery
+199,Fastrack Rogue Smartwatch,3499,4.0,False,False,False,False,Bluetooth 5.3,True,1.38,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+200,Fastrack Revoltt FS2 Smartwatch,1999,4.0,False,False,False,False,Bluetooth 5.3,True,1.91,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,5days Battery
+201,Cellecor Glow M8 Pro Smartwatch,2499,4.75,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+202,Fastrack Active Pro Smartwatch,5999,4.0,False,False,False,False,Bluetooth 5.3,True,1.85,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,7days Battery
+203,Fastrack Active Smartwatch,3999,4.1,False,False,False,False,Bluetooth 5.3,True,1.83,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+204,Play PlayFit Dial 4S Smartwatch,2099,4.55,False,False,False,False,Bluetooth,True,2.01,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+205,iQOO Watch,12999,4.1,False,True,True,False,Bluetooth 5.2,True,1.43,True,4.0,,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+206,boAt Enigma Z20 Smartwatch,2999,4.35,False,False,False,False,Bluetooth,True,1.51,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+207,boAt Enigma Switch Smartwatch,2999,4.15,False,False,False,False,Bluetooth,True,1.39,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+208,boAt Enigma X400 Smartwatch,3499,4.0,False,False,False,False,Bluetooth,True,1.45,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+209,Cellecor M5 Eaze Smartwatch,1899,4.5,False,False,False,False,Bluetooth,True,1.9,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+210,Black Shark S1 Classic Smartwatch,5599,4.7,False,False,False,False,Bluetooth ,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,12days Battery
+211,Fire Boltt Armour Smartwatch,1718,4.1,False,False,False,False,Bluetooth,True,1.6,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+212,boAt Wave Glory Pro Smartwatch,3499,4.7,False,False,False,False,Bluetooth 5.3,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+213,Haylou Watch R8,3199,4.15,False,False,True,False,Bluetooth 5.3,True,1.43,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+214,Noise ColorFit Vivid Call 2 Smartwatch,999,4.0,False,False,False,False,Bluetooth 5.3,True,1.85,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+215,boAt Wave Hype Smartwatch,8999,4.1,False,False,False,False,Bluetooth 5.3,True,1.85,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+216,PunnkFunnk H9 Smartwatch,2499,4.3,False,False,False,False,Bluetooth,True,1.96,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,
+217,pTron Reflect Pro Plus Smartwatch,1299,4.1,False,False,False,False,Bluetooth,True,2.01,True,,,False,True,False,True,True,True,True,True,False,True,False,False,False,False,False,
+218,SHKOD Watch Pro Plus Smartwatch,2399,4.65,False,False,False,False,Bluetooth,True,2.01,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,7days Battery
+219,Black Shark S1 Pro Smartwatch,6499,4.1,False,False,True,False,Bluetooth,True,1.43,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+220,Maxima Max Pro Charm Smartwatch,2999,4.55,False,False,False,False,Bluetooth 5.3,True,1.32,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+221,Fire Boltt Diablo Smartwatch,5483,4.3,False,False,True,False,Bluetooth,True,1.95,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+222,TrackMe Pro Kids Smartwatch,3966,4.2,False,True,False,True,Bluetooth,False,,True,,,True,True,False,False,False,False,False,True,True,False,False,True,True,True,True,
+223,SeTracker SETLBS01 Smartwatch,2850,4.4,False,True,False,True,,False,1.44,True,,,False,False,False,False,False,False,False,True,True,False,False,True,True,True,True,
+224,TrackMe Ace Smartwatch,5699,4.0,True,True,False,True,Bluetooth,False,1.5,True,,,False,False,False,False,False,False,False,True,True,False,False,True,True,True,True,3days Battery
+225,Cellecor M3 Air Smartwatch,1628,4.15,False,False,False,False,Bluetooth,True,1.52,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+226,Titan Zeal Smartwatch,8995,4.25,False,False,False,False,Bluetooth,True,1.85,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+227,Withings ScanWatch Nova Smartwtach,49999,4.2,False,True,True,False,Bluetooth,False,0.63,False,,,False,True,False,True,False,True,True,True,True,True,True,False,True,True,True,
+228,Fire Boltt Strike Smartwatch,1717,4.4,False,False,False,False,Bluetooth,True,1.95,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+229,Pebble Bravo Smartwatch,2499,4.6,False,False,False,False,Bluetooth,True,1.99,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,10days Battery
+230,Croma Squad TS Smartwatch,1799,4.75,False,False,False,False,Bluetooth 5.3,True,1.85,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+231,beatXP Nexus Smartwatch,2291,4.55,False,False,False,False,Bluetooth 5.2,True,1.78,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+232,Timex iConnect Gen Plus Smartwatch,2472,4.2,False,False,False,False,Bluetooth,True,2.01,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+233,Xiaomi Watch H1,14999,4.2,True,True,True,True,Bluetooth,False,1.4,True,,,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+234,Noise NoiseFit Endeavour Smartwatch,2799,4.7,False,False,False,False,Bluetooth 5.3,True,1.46,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+235,PunnkFunnk Kids Watch 1,1299,4.1,True,False,False,True,Bluetooth 5.0,False,1.5,True,,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,2days Battery
+236,Rogbid Rowatch 6 Smartwatch,2999,4.65,False,False,False,False,Bluetooth 5.1,True,2.01,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,
+237,Cult Sports Ace XR Smartwatch,2799,4.6,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+238,Hammer Tussle Smartwatch,1439,4.15,False,False,False,False,Bluetooth,True,2.01,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+239,Google Pixel Watch 3,43990,4.6,True,True,True,False,Bluetooth 5.3,True,1.3,True,2.0,32.0,True,True,True,True,False,False,False,False,False,True,False,False,False,False,False,
+240,Haylou Watch S8,2499,4.05,False,False,False,False,Bluetooth 5.3,True,1.96,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+241,French Connection Beam Smartwatch,4288,4.2,False,False,False,False,Bluetooth 5.2,True,1.45,True,,,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+242,Gizmore Craze Smartwatch,1471,4.4,False,False,False,False,Bluetooth,True,2.01,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+243,Garmin Fenix 7X Pro Solar Smartwatch,74999,4.35,False,True,False,False,Bluetooth,False,1.4,True,,32.0,True,True,True,True,False,True,True,True,True,True,True,False,False,False,False,
+244,Garmin Fenix 7 Pro Solar Smartwatch,66649,4.25,False,True,True,False,Bluetooth 5.2,False,1.35,True,,,False,True,True,True,True,True,True,True,True,True,True,False,False,False,False,Unlimited Battery
+245,PunnkFunnk S9 Ultra Smartwatch,1550,4.75,False,False,False,False,Bluetooth 5.0,True,1.97,True,0.5,2.0,True,False,False,True,False,True,False,True,False,True,False,False,False,False,False,
+246,French Connection Nexus Smartwatch,4938,4.3,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+247,French Connection Elite Smartwatch,2799,4.75,False,False,False,False,Bluetooth,True,1.8,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+248,Amazfit Cheetah Smartwatch (Square),21999,4.35,True,True,False,False,Bluetooth 5.2,True,1.96,False,,,False,True,False,True,False,True,True,True,True,True,True,False,False,False,False,
+249,Pebble Magnum Smartwatch,2799,4.45,False,False,False,False,Bluetooth 5.0,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+250,Pebble Zenith Smartwatch,2499,4.35,False,False,False,False,Bluetooth 5.0,True,1.53,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+251,Pebble Zest Smartwatch,1799,4.6,False,False,False,False,Bluetooth 5.0,True,1.83,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+252,Pebble Vista Smartwatch,1799,4.55,False,False,False,False,Bluetooth,True,1.99,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+253,Pebble Ritz Smartwatch,3499,4.25,False,False,False,False,Bluetooth 5.0,True,1.19,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+254,Pebble Nomad Smartwatch,2499,4.2,False,False,False,False,Bluetooth 5.0,True,1.85,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+255,Pebble Elevate Smartwatch,3299,4.05,False,False,False,False,Bluetooth 5.0,True,1.99,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+256,Pebble Alive Smartwatch,1299,4.65,False,False,False,False,Bluetooth,True,1.99,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+257,Noise NoiseFit Active 2 Smartwatch,2999,4.5,False,True,False,False,Bluetooth,False,1.46,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+258,Tempt Verge Pro X Smartwatch,1999,4.5,False,False,False,False,Bluetooth 5.1,True,2.04,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+259,Pebble Trio Smartwatch,2490,4.05,False,False,False,False,Bluetooth 5.0,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+260,Hammer Arctic Smartwatch,2499,4.45,False,False,False,False,Bluetooth 5.2,True,2.04,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+261,Vikyuvi Vikfit Halo Pro Smartwatch,1299,4.45,False,False,False,False,Bluetooth 5.2,True,2.01,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+262,boAt Wave Convex Smartwatch,2799,4.1,False,False,False,False,Bluetooth,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+263,Titan Crest Smartwatch,5995,4.5,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+264,Helix Metalfit 5.0 Smartwatch,1478,4.2,False,False,False,False,Bluetooth,True,1.83,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,7days Battery
+265,Timex iConnect TWIXW202T Smartwatch,1998,4.65,False,False,False,False,Bluetooth 5.0,True,1.83,True,,,True,True,False,True,True,False,False,False,False,True,False,False,False,False,False,
+266,Fire Boltt Lumos Smartwatch,1499,4.15,False,False,False,False,Bluetooth,True,1.91,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+267,WatchOut Wearables Elegant Kids Smartwatch,5499,4.0,False,True,False,True,,False,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,5days Battery
+268,Noise ColorFit Icon 3 Plus Smartwatch,1999,4.3,False,False,False,False,Bluetooth,True,1.96,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,7days Battery
+269,Vivo Watch 3,14599,4.05,False,True,True,True,Bluetooth 5.2,False,1.43,True,4.0,,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,
+270,boAt Ultima Select Smartwatch,2999,4.35,False,False,False,False,Bluetooth,True,2.01,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+271,boAt Lunar Tigon Smartwatch,2399,4.25,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+272,Cult Sport Burn Plus Smartwatch,2479,4.4,False,False,False,False,Bluetooth 5.3,True,1.78,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+273,RAT Gorilla Calling ZW39 Smartwatch,1999,4.45,False,False,False,False,Bluetooth,True,2.01,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+274,Sekyo S2 Pro Smartwatch,2519,4.3,False,True,False,True,,False,1.42,True,0.125,,True,True,True,False,False,False,False,True,True,False,False,True,True,True,True,
+275,Amazfit Active Edge Smartwatch,12999,4.15,False,True,False,False,Bluetooth 5.0,True,1.32,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+276,Amazfit Active Smartwatch,12999,4.55,False,True,False,False,Bluetooth,True,1.75,True,,,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+277,Xiaomi MiTu U1 Pro Phone Watch,11399,4.1,False,True,False,True,,False,,True,,4.0,True,False,False,False,False,False,False,True,True,False,False,True,True,True,True,
+278,Titan Mirage Smartwatch,8899,4.5,False,False,False,False,Bluetooth,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+279,Xiaomi Watch 14,9999,4.1,False,False,False,False,Bluetooth,True,1.4,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+280,Garmin D2 Mach 1 Pro Smartwatch,116999,4.25,True,True,True,False,Bluetooth,False,1.4,True,,32.0,True,True,True,True,False,True,True,True,True,True,True,False,False,False,False,
+281,Crossbeats Ignite Nexus Smartwatch,3999,4.35,False,False,False,False,Bluetooth 5.3,True,2.1,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+282,Amazfit Jump Smartwatch,10299,4.1,False,True,False,False,Bluetooth,True,1.75,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+283,Fastrack Revoltt Vigor Smartwatch,2099,4.15,False,False,False,False,Bluetooth 5.3,True,1.91,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+284,Croma Velocity AM Smartwatch,2999,4.75,False,False,False,False,Bluetooth 5.2,True,1.78,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+285,Vibez Sigma Smartwatch,1799,4.3,False,False,False,False,Bluetooth,True,1.39,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+286,Noise ColorFit Icon 2 Elite Edition Smartwatch,1499,4.6,False,False,False,False,Bluetooth 5.1,True,1.8,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+287,Boult Mirage Smartwatch,1799,4.05,False,False,False,False,Bluetooth 5.3,True,1.39,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+288,boAt Lunar Peak Smartwatch,1999,4.55,False,False,False,False,Bluetooth,True,1.45,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+289,pTron Reflect Classic Smartwatch,1299,4.0,False,False,False,False,Bluetooth 5.0,True,2.01,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+290,Fire Boltt Quest Smartwatch,1899,4.5,False,True,False,False,Bluetooth,True,1.39,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+291,Vibez Muse Smartwatch,999,4.0,False,False,False,False,Bluetooth,True,1.91,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+292,Fastrack Limitless X Smartwatch,1799,4.4,False,False,False,False,Bluetooth 5.3,True,1.91,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+293,pTron Reflect Max Pro Smartwatch,1299,4.25,False,False,False,False,Bluetooth 5.0,True,2.01,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,5days Battery
+294,Croma StrideI Smartwatch,1999,4.4,False,False,False,False,Bluetooth,True,,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+295,boAt Primia Celestial Smartwatch,1999,4.0,False,False,False,False,Bluetooth,True,1.52,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+296,Fire Boltt Talk Alpha Smartwatch,1299,4.35,False,False,False,False,Bluetooth,True,1.65,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+297,Hammer Ultra Classic Smartwatch,1499,4.15,False,False,False,False,Bluetooth 5.3,True,2.01,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+298,PunnkFunnk T800 Ultra Smartwatch,799,4.75,False,False,False,False,Bluetooth 5.0,True,1.93,True,0.75,2.0,True,True,False,True,False,True,False,True,False,False,False,False,False,False,False,
+299,Ciberer BTalk 2 Smartwatch,3699,4.6,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+300,Maxima Max Pro Spark Smartwatch,1399,4.3,False,False,False,False,Bluetooth 5.2,True,1.39,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+301,Maxima Max Pro Enigma Plus Smartwatch,1599,4.3,False,False,False,False,Bluetooth 5.2,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+302,pTron Reflect Flash Smartwatch,1299,4.5,False,False,False,False,Bluetooth 5.0,True,1.32,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+303,Gizmore Ikon Luxe Smartwatch,2778,4.55,False,False,False,False,Bluetooth,True,1.55,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+304,boAt Wave Elevate Pro Smartwatch,2499,4.35,False,False,False,False,Bluetooth,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+305,Fire Boltt Rise Luxe Smartwatch,1599,4.2,False,False,False,False,Bluetooth 5.0,True,1.85,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+306,Fire Boltt Diamond Smartwatch,4399,4.75,False,False,False,False,Bluetooth,True,1.43,True,,4.0,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+307,Fire Boltt Xelor Smartwatch,3899,4.15,False,False,False,False,Bluetooth,True,1.78,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+308,Giordano Connex ‎R6-W31-02 Smartwatch,2098,4.65,False,False,False,False,Bluetooth,True,1.78,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+309,Fire Boltt Jewel Smartwatch,2999,4.1,False,False,False,False,Bluetooth,True,1.85,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+310,Nervfit Fuel Smartwatch,992,4.35,False,False,False,False,Bluetooth,True,1.81,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+311,Boult Sterling Smartwatch,1599,4.25,False,False,False,False,Bluetooth 5.3,True,1.52,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+312,Zebronics Unbeatable 2 Smartwatch,1899,4.2,False,False,False,False,Bluetooth 5.1,True,1.9,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+313,Fastrack Limitless Glide Smartwatch,1499,4.6,False,False,False,False,Bluetooth 5.3,True,1.78,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+314,French Connection Rogue Smartwatch,1819,4.55,False,False,False,False,Bluetooth 5.1,True,1.8,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+315,Promate Xwatch B19 Smartwatch,3299,4.0,False,False,False,False,Bluetooth,True,1.9,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+316,Wearfit Champ 4G Plus Smartwatch,6995,4.45,True,True,False,True,,False,1.7,True,,,False,False,False,False,False,False,False,True,True,False,False,True,True,True,True,2days Battery
+317,Fastrack Revoltt X Smartwatch,1799,4.15,False,False,False,False,Bluetooth 5.3,True,1.83,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+318,Fastrack Revoltt Z1 Smartwatch,1899,4.75,False,False,False,False,Bluetooth 5.3,True,1.91,True,,,False,True,False,True,False,True,True,True,True,False,False,False,False,False,False,7days Battery
+319,Maxima Max Pro Flash Smartwatch,1799,4.4,False,False,False,False,Bluetooth,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+320,boAt Wave Vivid Smartwatch,2299,4.15,False,False,False,False,Bluetooth,True,2.0,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+321,boAt Genesis Pro Smartwatch,2499,4.25,False,False,False,False,Bluetooth 5.3,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+322,Pebble Dare Smartwatch,1399,4.65,False,False,False,False,Bluetooth 5.0,True,1.99,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+323,Pebble Carbon Smartwatch,1999,4.75,False,False,False,False,Bluetooth 5.0,True,1.39,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+324,boAt Lunar Seek Smarwatch,1299,4.25,False,False,False,False,Bluetooth,True,1.39,True,,,False,True,False,True,False,True,False,True,True,True,False,False,False,False,False,
+325,boAt Lunar Mirage Smartwatch,1499,4.65,False,False,False,False,Bluetooth,True,1.52,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+326,beatXP Unbound Era Smartwatch,1499,4.2,False,False,False,False,Bluetooth,True,2.01,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+327,beatXP Evoke Neo Smartwatch,1299,4.55,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+328,beatXP Duke Smartwatch,1499,4.4,False,False,False,False,Bluetooth 5.3,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+329,beatXP Unbound Pro Smartwatch,2199,4.55,False,False,False,False,Bluetooth 5.2,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+330,beatXP Marv Sense Smartwatch,999,4.45,False,False,False,False,Bluetooth 5.3,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+331,Fire Boltt Apollo 3 Smartwatch,1799,4.4,False,False,False,False,Bluetooth 5.0,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+332,boAt Lunar Prime Smartwatch,1999,4.35,False,False,False,False,Bluetooth,True,1.45,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+333,Maxima Hype Plus Smartwatch,1599,4.05,False,False,False,False,Bluetooth,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+334,Maxima Sprint Smartwatch,1399,4.15,False,False,False,False,Bluetooth,True,1.39,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+335,Crossbeats Diva Smartwatch,3299,4.3,False,False,False,False,Bluetooth 5.3,True,1.28,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,7days Battery
+336,Hammer Conquer Smartwatch,1979,4.1,False,False,False,False,Bluetooth 5.2,True,2.02,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+337,Cult Sport Ace X Smartwatch,3299,4.75,False,False,False,False,Bluetooth 5.3,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+338,Urban Titanium Smartwatch,3599,4.7,False,False,False,False,Bluetooth,True,1.43,True,,,False,False,False,False,True,True,True,True,True,True,False,True,True,True,True,5days Battery
+339,Hammer Luxor Smartwatch,1999,4.65,False,False,False,False,Bluetooth 5.3,True,1.45,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+340,Cult Sport Ace X Luxe Smartwatch,3479,4.75,False,False,False,False,Bluetooth 5.3,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+341,Hammer Active 3.0 Smartwatch,1799,4.2,False,False,False,False,Bluetooth 5.1,True,1.39,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+342,Noise ColorFit Cadet Smartwatch,1499,4.55,False,False,False,False,Bluetooth,True,1.78,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+343,Fire Boltt Gladiator Pro Smartwatch,1799,4.55,False,False,False,False,Bluetooth,True,1.78,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+344,Garmin Vivoactive 5 Smartwatch,24999,4.35,True,True,False,False,Bluetooth,True,1.2,True,,4.0,True,True,True,True,False,False,False,False,False,True,False,False,False,False,False,
+345,beatXP Evoke Smartwatch,1299,4.35,False,False,False,False,Bluetooth 5.3,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+346,Apple Watch 2nd Gen 2023 44mm (GPS),29610,4.2,True,True,True,False,Bluetooth 5.3,True,1.73,True,,32.0,True,True,True,True,True,False,False,False,False,True,False,False,False,False,False,
+347,Fire Boltt Solaris Smartwatch,2199,4.3,False,False,False,False,Bluetooth,True,1.78,True,,,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+348,Apple Watch SE 2nd Gen 2023 40mm (GPS+Cellular),30899,4.4,True,True,True,True,Bluetooth 5.3,False,1.6,True,,32.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+349,Apple Watch 2nd Gen 2023 44mm (GPS+Cellular),34110,4.1,True,True,True,True,Bluetooth 5.3,False,1.73,True,,32.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+350,Fire Boltt Ninja Pro Max Ultra Smartwatch,1499,4.7,False,False,False,False,Bluetooth 5.0,True,2.01,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+351,Huawei Watch GT 4 41mm,14999,4.75,True,False,True,False,Bluetooth 5.1,True,1.32,True,,,False,True,False,True,False,True,True,True,True,True,True,False,False,False,False,
+352,Fire Boltt Eclipse Luxe Smartwatch,1399,4.4,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+353,Noise NoiseFit Grace Smartwatch,2999,4.6,False,False,False,False,Bluetooth 5.3,True,1.1,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,4days Battery
+354,beatXP Vector Smartwatch,799,4.0,False,False,False,False,Bluetooth 5.3,True,1.3,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+355,Boult Craft Smartwatch,1099,4.4,False,False,False,False,Bluetooth 5.3,True,1.83,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+356,boAt Wave Genesis Smartwatch,1899,4.05,False,False,False,False,Bluetooth,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+357,Samsung Galaxy Watch 6 Classic PXG Edition 40mm,54499,4.2,True,True,True,True,Bluetooth 5.3,False,1.3,True,2.0,16.0,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,
+358,Samsung Galaxy Watch 6 Classic PXG Edition 43mm,56299,4.6,True,True,True,True,Bluetooth 5.3,False,1.5,True,2.0,16.0,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,
+359,pTron Reflect Pro Smartwatch,1264,4.45,False,False,False,False,Bluetooth,True,1.85,True,,,False,True,False,True,True,True,True,True,False,True,False,False,False,False,False,
+360,boAt Ultima Vogue Smartwatch,2499,4.35,False,False,False,False,Bluetooth,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+361,pTron Reflect Callz Smartwatch,1299,4.2,False,False,False,False,Bluetooth 5.2,True,1.85,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+362,boAt Enigma X500 Smartwatch,3200,4.45,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+363,Boston Levin Infinity Smartwatch,1705,4.6,False,False,False,False,Bluetooth 5.3,True,1.85,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+364,boAt Enigma R32 Smartwatch,2400,4.2,False,False,False,False,Bluetooth,True,1.32,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+365,boAt Enigma X600 Smartwatch,3200,4.4,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+366,Ambrane Glaze Plus Smartwatch,2199,4.65,False,False,False,False,Bluetooth,True,2.01,True,,,False,True,False,True,False,True,False,True,True,True,False,False,False,False,False,
+367,Apple Watch Series 9 41mm Stainless Steel (GPS + Cellular),59999,4.1,True,True,True,True,Bluetooth 5.3,False,1.61,True,,64.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+368,Apple Watch Series 9 45mm Stainless Steel (GPS + Cellular),69999,4.4,True,True,True,True,Bluetooth 5.3,False,1.77,True,,64.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+369,Apple Watch Series 9 41mm (GPS + Cellular),41999,4.75,True,True,True,True,Bluetooth 5.3,False,1.61,True,,64.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+370,Apple Watch Series 9 45mm (GPS),35999,4.35,True,True,True,False,Bluetooth 5.3,True,1.77,True,,64.0,True,True,True,True,True,False,False,False,False,True,False,False,False,False,False,
+371,boAt Lunar Comet Smartwatch,1399,4.35,False,False,False,False,Bluetooth,True,1.39,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+372,Wings Meta Smartwatch,1299,4.4,False,False,False,False,Bluetooth 5.3,True,1.85,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+373,Fire Boltt Talk 2 Pro Ultra Smartwatch,1699,4.3,False,False,False,False,Bluetooth,True,1.39,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+374,Garmin Forerunner 65 Smartwatch,29999,4.65,True,True,False,False,Bluetooth,False,1.2,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,14days Battery
+375,Maxima Max Pro Nova Smartwatch,1399,4.4,False,False,False,False,Bluetooth 5.0,True,1.39,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+376,Cellecor A9 Pro Stark Smartwatch,2399,4.55,False,False,False,False,Bluetooth 4.0,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+377,Crossbeats Monarch Regal Smartwatch,1999,4.75,False,False,True,False,Bluetooth 5.0,True,1.43,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+378,Noise Explorer Smartwatch,5499,4.1,False,True,False,True,Bluetooth 5.3,False,1.4,True,,,True,True,False,False,False,False,False,True,True,False,False,False,False,False,False,3days Battery
+379,Kratos Ultra  SW16 Smartwatch,1394,4.15,False,False,False,False,Bluetooth,True,1.85,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+380,Withings ScanWatch Light Smartwatch,20699,4.4,False,True,False,False,Bluetooth,False,0.63,False,,,False,True,False,True,False,True,True,True,True,True,True,False,True,True,True,
+381,Withings ScanWatch 2 Smartwatch,28999,4.35,False,True,False,False,Bluetooth,False,0.63,False,,,False,True,False,True,False,True,True,True,True,True,True,False,False,False,False,30days Battery
+382,boAt Lunar Vista Smartwatch,1399,4.35,False,False,False,False,Bluetooth,True,1.52,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+383,Hammer Glide Smartwatch,2199,4.6,False,False,False,False,Bluetooth 5.2,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+384,Garmin Venu 3S Smartwatch,37299,4.6,True,True,True,False,Bluetooth,True,1.2,True,,8.0,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+385,Ambrane Fyre Smartwatch,1599,4.0,False,False,False,False,Bluetooth,True,2.04,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+386,Oppo Watch SE,11699,4.75,True,True,True,True,Bluetooth 5.0,False,1.75,True,1.0,8.0,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,
+387,boAt Wave Glory Smartwatch,2399,4.55,False,False,False,False,Bluetooth,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+388,Wings Urbana Smartwatch,1699,4.25,False,False,False,False,Bluetooth 5.3,True,2.01,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+389,Boult Sterling Pro Smartwatch,2199,4.1,False,False,False,False,Bluetooth 5.3,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+390,Samsung Galaxy Watch 6 Classic Astro Edition,43999,4.5,True,True,True,False,Bluetooth 5.3,True,1.5,True,2.0,16.0,True,True,False,True,True,False,False,False,False,True,False,False,False,False,False,
+391,boAt Lunar Orb Smartwatch,1999,4.25,False,False,False,False,Bluetooth,True,1.45,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+392,Cellecor A7 Pro Parker Smartwatch,2599,4.5,False,False,False,False,Bluetooth 4.0,True,1.39,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,
+393,Noise ColorFit Caliber 3 Plus Smartwatch,2199,4.4,False,False,False,False,Bluetooth 5.3,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+394,Fire Boltt Starlight Smartwatch,1599,4.05,False,False,False,False,Bluetooth 5.0,True,2.01,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+395,Fire Boltt Avalanche Smartwatch,1549,4.7,False,False,False,False,Bluetooth,True,1.28,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+396,Ambrane Marble Smartwatch,1499,4.35,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+397,boAt Lunar Space Plus Smartwatch,1299,4.25,False,False,False,False,Bluetooth,True,1.39,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+398,boAt Ultima Prism Smartwatch,1999,4.7,False,False,False,False,Bluetooth,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+399,Boult Crown R Smartwatch,1999,4.05,False,False,False,False,Bluetooth 5.3,True,1.52,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+400,Hammer Robust Smartwatch,2159,4.25,False,False,False,False,Bluetooth 5.2,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+401,Oppo Watch 4 Pro,26100,4.35,True,True,True,False,Bluetooth 5.0,True,1.9,True,2.0,32.0,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+402,boAt Wave Neo Plus Smartwatch,1299,4.15,False,False,False,False,Bluetooth,True,1.96,True,,,False,True,False,True,False,True,False,True,True,True,False,False,False,False,False,
+403,Apple Watch X,74999,4.3,True,True,False,True,Bluetooth 5.3,False,1.96,True,,,True,True,True,True,True,False,False,False,False,True,False,False,False,False,False,
+404,Amazfit Bip 5 Smartwatch,7499,4.2,False,True,False,False,Bluetooth 5.3,True,1.91,True,,,False,True,False,True,False,True,True,True,True,True,True,False,False,False,False,
+405,Cult Sport Ranger XR Smartwatch,3499,4.5,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+406,Fire Boltt Emerald Smartwatch,4699,4.15,False,False,False,False,Bluetooth,True,1.09,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+407,Fire Boltt Phoenix AMOLED Smartwatch,1799,4.45,False,False,False,False,Bluetooth 5.0,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+408,Vibez  Jewel Smartwatch,2699,4.5,False,False,False,False,Bluetooth,True,1.32,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+409,Hearmo HearFit Rex Smartwatch,1999,4.65,False,False,False,False,Bluetooth,True,1.9,True,,,False,True,False,True,False,True,True,True,True,False,False,True,True,True,True,
+410,boAt Lunar Fit Smartwatch,2246,4.1,False,False,False,False,Bluetooth 5.1,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+411,Huawei Children’s Watch 5 Vitality Edition,6999,4.1,False,True,False,True,Bluetooth,False,,True,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,
+412,Pebble Cosmos Quest Smartwatch,2299,4.4,False,False,False,False,Bluetooth 5.0,True,1.43,True,,,False,True,False,True,False,True,True,True,True,False,False,False,False,False,False,7days Battery
+413,Cellecor A10 Rare Smartwatch,1484,4.65,False,False,False,False,Bluetooth 5.0,True,2.01,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,
+414,beatXP Unbound Curv Smartwatch,1499,4.15,False,False,False,False,Bluetooth,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+415,FCUK Tide FCSW01 Smartwatch,1499,4.5,False,False,False,False,Bluetooth 5.1,True,1.39,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+416,Sekyo X1 Smartwatch,1899,4.0,False,True,False,True,,False,1.5,True,0.125,,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False,
+417,Samsung Galaxy Watch 6 Classic Bluetooth 43mm,33299,4.0,True,True,True,False,Bluetooth 5.3,True,1.3,True,2.0,16.0,True,True,False,True,True,False,False,False,False,True,False,False,False,False,False,
+418,Samsung Galaxy Watch 6 Classic Bluetooth 47mm,36999,4.65,True,True,True,False,Bluetooth 5.3,True,1.5,True,2.0,16.0,True,True,False,True,True,False,False,False,False,True,False,False,False,False,False,
+419,Samsung Galaxy Watch 6 Bluetooth 40mm,26990,4.65,True,True,True,False,Bluetooth 5.3,True,1.31,True,2.0,16.0,True,True,False,True,True,False,False,False,False,True,False,False,False,False,False,
+420,boAt Wave Ultima Chronos Smartwatch,1999,4.65,False,False,False,False,Bluetooth 5.2,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+421,Garmin Fenix 7X Pro Sapphire Solar Smartwatch,111990,4.1,True,True,False,False,Bluetooth,False,1.4,True,,32.0,True,True,True,True,False,True,True,True,True,True,True,False,False,False,False,
+422,boAt Force 2 Smartwatch,1499,4.75,False,False,False,False,Bluetooth 5.1,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+423,boAt Cosmos Plus Smartwatch,1871,4.15,False,False,False,False,Bluetooth 5.1,True,1.78,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+424,PTron Reflect Ace Smartwatch,1299,4.5,False,False,False,False,Bluetooth 5.2,True,1.85,False,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+425,Boult Drift 2 Smartwatch,1299,4.75,False,False,False,False,Bluetooth 5.1,True,1.85,True,,,False,False,False,True,False,True,False,True,True,True,False,False,False,False,False,7days Battery
+426,Fitshot Junior Smartwatch,5999,4.15,False,True,False,True,Bluetooth,False,1.69,True,,,False,False,False,True,False,False,True,True,True,False,False,False,True,True,True,
+427,Huawei Watch Fit Special Edition,8499,4.1,False,False,False,False,Bluetooth 5.2,False,1.64,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+428,boAt Wave Sigma Smartwatch,1199,4.45,False,False,False,False,Bluetooth,True,2.01,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+429,boAt Flash Plus Smartwatch,1299,4.55,False,False,False,False,Bluetooth 5.1,True,1.39,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+430,boAt Wave Connect Plus Smartwatch,1299,4.45,False,False,False,False,Bluetooth 5.2,True,1.83,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,
+431,Fastrack Reflex Horizon Smartwatch,3495,4.45,False,False,False,False,Bluetooth 5.3,True,1.95,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,5days Battery
+432,Gizmore Orbit Max Smartwatch,1999,4.05,False,False,False,False,Bluetooth,True,1.39,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,10days Battery
+433,Punnk Funnk Kids Smartwatch,1399,4.2,False,True,False,True,,False,1.44,True,,,False,False,False,False,False,False,False,True,True,False,False,True,True,True,True,
+434,Fastrack Rave FX Smartwatch,2495,4.25,False,False,False,False,Bluetooth,True,1.83,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+435,Conekt Swag Pro Smartwatch,2299,4.3,False,False,False,False,Bluetooth 5.0,True,1.3,True,,,False,False,True,True,False,True,True,True,False,True,False,False,False,False,False,
+436,Zeblaze Vibe 7 Lite Smartwatch,2499,4.5,False,False,False,False,Bluetooth,True,1.3,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+437,Endefo Enfit Max Smartwatch,1699,4.25,False,False,False,False,Bluetooth 5.0,True,1.96,True,,,False,True,False,True,True,True,True,True,False,True,False,False,False,False,False,
+438,Boult Striker Pro Smartwatch,1999,4.45,False,False,False,False,Bluetooth 5.2,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+439,Landmark Pace Smartwatch,1499,4.0,False,False,False,False,Bluetooth,True,1.85,True,,,False,False,False,True,True,False,True,True,True,True,False,True,True,True,True,
+440,Vibez Ruby Smartwatch,3499,4.65,False,False,False,False,Bluetooth,True,1.04,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,2days Battery
+441,Sekyo Carepal Pro Smartwatch,4549,4.5,False,True,False,True,,False,1.54,True,0.5,1.0,True,False,True,False,False,False,True,True,True,False,False,False,False,False,False,
+442,Zebronics Unbeatable Zeb-FIT480CH Smartwatch,1999,4.2,False,False,False,False,Bluetooth,True,,True,,,False,False,False,True,False,False,True,True,True,True,False,True,True,True,True,
+443,Timex Fit 3.0 Smartwatch,2299,4.75,False,False,False,False,Bluetooth,True,1.78,True,,,False,False,False,False,True,True,True,True,True,True,False,True,True,True,True,
+444,Alt Fleek Smartwatch,1599,4.65,False,False,False,False,Bluetooth 5.3,True,2.01,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,7days Battery
+445,Maxima Power Smartwatch,2699,4.25,False,False,False,False,Bluetooth 5.2,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+446,Ambrane Rush Smartwatch,999,4.0,False,False,False,False,Bluetooth,True,1.39,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,10days Battery
+447,boAt Storm Call 2 Smartwatch,1099,4.1,False,False,False,False,Bluetooth,True,1.83,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+448,boAt Wave Call 2 Smartwatch,1199,4.55,False,False,False,False,Bluetooth,True,1.83,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+449,boAt Lunar Call Smartwatch,1699,4.0,False,False,False,False,Bluetooth 5.3,True,1.3,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+450,boAt Wave Fury Smartwatch,1099,4.6,False,False,False,False,Bluetooth 5.1,True,1.83,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,5days Battery
+451,Xeniks S9 Ultra Smartwatch,2975,4.75,False,False,False,False,Bluetooth,True,1.6,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+452,Vibez Glam Smartwatch,1899,4.1,False,False,False,False,Bluetooth,True,1.28,True,,,False,False,False,False,False,True,True,True,True,True,False,True,True,True,True,7days Battery
+453,Fire Boltt Ninja Fit Pro Smartwatch,1040,4.35,False,False,False,False,Bluetooth,True,2.0,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+454,Kospet Tank S1 Smartwatch,6599,4.2,False,False,False,False,Bluetooth,True,1.3,True,,,False,True,True,True,False,True,False,True,True,True,True,False,False,False,False,
+455,Noise ColorFit Thrill Smartwatch,1699,4.7,False,False,False,False,Bluetooth,True,2.0,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+456,boAt Primia Ace Smartwatch,3299,4.2,False,False,False,False,Bluetooth 5.1,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+457,Crossbeats Apex Regal Smartwatch,2999,4.7,False,False,False,False,Bluetooth 5.3,True,1.43,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+458,Hammer Fit Pro Smartwatch,2999,4.65,False,False,False,False,Bluetooth 5.2,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+459,Hammer Cyclone Smartwatch,1199,4.5,False,False,False,False,Bluetooth 5.2,True,1.39,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,7days Battery
+460,Honor Watch 4,13499,4.35,False,True,True,False,Bluetooth 5.2,True,1.75,True,,4.0,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+461,Xiaomi Watch S2 Pro,18599,4.3,True,True,False,True,Bluetooth 5.3,False,1.43,True,,,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+462,Fastrack Reflex Play Plus Power Smartwatch,5995,4.5,False,False,False,False,Bluetooth,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+463,Fastrack Revoltt FS1 Max Smartwatch,1699,4.1,False,False,False,False,Bluetooth 5.3,True,1.95,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,5days Battery
+464,Fastrack Revoltt FS1 Plus Smartwatch,1399,4.15,False,False,False,False,Bluetooth 5.2,True,2.01,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+465,Turet Marcos Smartwatch,4353,4.75,False,False,False,True,Bluetooth,False,1.3,True,,,True,False,False,False,False,False,True,True,True,False,False,False,True,False,False,
+466,Turet Gator 2.0 Smartwatch,4499,4.1,True,True,False,True,Bluetooth,False,1.4,True,,,True,False,False,False,False,False,True,True,True,False,False,False,True,False,False,
+467,Ciberer BTalk 01 Smartwatch,2599,4.55,False,False,False,False,Bluetooth,True,1.85,True,,,False,False,False,False,False,True,True,True,True,True,False,True,True,True,True,7days Battery
+468,Fire Boltt Solace Smartwatch,1999,4.05,False,False,False,False,Bluetooth,True,1.32,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+469,Fire Boltt Gladiator Plus Smartwatch,1899,4.0,False,False,False,False,Bluetooth,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+470,Fire Boltt Visionary Pro Smartwatch,2999,4.25,False,False,False,False,Bluetooth,True,1.78,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+471,Fire Boltt Ace Smartwatch,2499,4.65,False,False,False,False,Bluetooth,True,1.43,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+472,Fire Boltt Blizzard Ultra Smartwatch,1760,4.4,False,False,False,False,Bluetooth 5.0,True,1.28,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+473,Crossbeats Aura Smartwatch,1999,4.75,False,False,False,False,Bluetooth 5.3,True,1.46,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+474,beatXP Marv Aura Smartwatch,999,4.65,False,False,False,False,Bluetooth 5.3,True,1.83,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+475,beatXP Terra Smartwatch,1599,4.55,False,False,False,False,Bluetooth,True,1.39,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+476,Fire Boltt Destiny Smartwatch,1599,4.6,False,False,False,False,Bluetooth 5.0,True,1.39,True,,,False,False,True,True,False,True,True,True,True,True,True,False,False,False,False,
+477,Fire Boltt Combat Smartwatch,1199,4.35,False,False,False,False,Bluetooth 5.0,True,1.96,True,,,False,False,True,True,False,True,True,True,True,False,False,False,False,False,False,7days Battery
+478,Cult Sport Active T Smartwatch,1499,4.6,False,False,False,False,Bluetooth 5.2,True,2.01,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,
+479,Pebble Celia Smartwatch,1799,4.6,False,False,False,False,Bluetooth 5.0,True,1.32,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,5days Battery
+480,boAt Wave Armour 2 Smartrwatch,1499,4.7,False,False,False,False,Bluetooth 5.2,True,1.85,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+481,Noise ColorFit Hexa Smartwatch,2199,4.25,False,False,False,False,Bluetooth 5.2,True,1.96,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+482,Riviera RSW-005 Smartwatch,1299,4.05,False,False,False,False,Bluetooth,True,1.85,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+483,Fire Boltt Apollo 2 Smartwatch,1999,4.6,False,False,False,False,Bluetooth 5.0,True,1.43,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,
+484,boAt Ultima Connect Smartwatch,1144,4.25,False,False,False,False,Bluetooth 5.0,True,1.82,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+485,DM20C Smartwatch,7999,4.1,True,True,False,True,Bluetooth,True,1.88,True,4.0,64.0,True,False,False,True,True,False,False,False,False,True,False,False,False,False,False,
+486,LEMFO LEM T Smartwatch,15999,4.4,True,True,False,True,Bluetooth 4.0,True,2.86,True,3.0,32.0,True,False,False,True,False,False,True,True,True,False,True,False,False,False,False,
+487,boAt Storm Plus Smartwatch,1799,4.6,False,False,False,False,Bluetooth,True,1.78,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+488,Noise NoiseFit Twist Pro Smartwatch,1360,4.25,False,False,False,False,Bluetooth 5.3,True,1.4,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+489,Ciberer Btalk 3 Smartwatch,2974,4.7,False,False,False,False,Bluetooth,True,1.45,True,,,False,True,True,True,False,True,True,True,True,True,True,False,False,False,False,
+490,Boult Crown X Smartwatch,1299,4.2,False,False,False,False,Bluetooth 5.2,False,2.0,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,5days Battery
+491,Samsung Galaxy Watch 6 LTE 44mm,33479,4.4,True,True,True,True,Bluetooth 5.3,False,1.5,True,2.0,16.0,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,
+492,Fastrack Limitless FS1 Plus Smartwatch,1704,4.75,False,False,False,False,Bluetooth,True,,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+493,Riviera RSW-004 Smartwatch,1299,4.0,False,False,False,False,Bluetooth 5.1,True,1.85,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,0.33days Battery
+494,Fastrack Limitless FS1 Pro Smartwatch,2699,4.25,False,False,False,False,Bluetooth 5.2,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+495,Pebble Cosmos Vogue Smartwatch,1699,4.2,False,False,False,False,Bluetooth 5.0,True,1.96,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,
+496,Boult Crown R Pro Smartwatch,1999,4.5,False,False,False,False,Bluetooth 5.2,True,1.43,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,5days Battery
+497,Riviera RSW-003 Smartwatch,1499,4.45,False,False,False,False,Bluetooth 5.0,True,1.28,True,,,False,False,False,True,False,True,True,True,True,False,False,True,True,True,True,
+498,Titan Evoke Smartwatch,5994,4.35,False,False,False,False,Bluetooth 5.3,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+499,Noise ColorFit Canvas Smartwatch,1200,4.45,False,False,False,False,Bluetooth 5.2,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+500,Fire Boltt Ninja Call Pro Max Smartwatch,1399,4.2,False,False,False,False,Bluetooth 5.0,True,,True,,,False,False,False,True,False,False,True,True,True,True,False,False,False,False,False,7days Battery
+501,Crossbeats Ignite Stellr Smartwatch,2999,4.3,False,False,False,False,Bluetooth 5.2,True,2.0,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,7days Battery
+502,French Connection Pop Fit Smartwatch,1575,4.4,False,False,False,False,Bluetooth 5.1,True,1.81,True,0.5,1.0,True,False,True,True,True,False,False,False,False,True,False,False,False,False,False,
+503,boAt Wave Spin Voice Smartwatch,1520,4.2,True,True,False,False,Bluetooth 5.0,True,1.85,True,,,False,False,True,True,False,True,True,True,False,True,False,False,False,False,False,
+504,Watchout Duo Kids Smartwatch,5999,4.6,True,True,False,True,Bluetooth,False,1.3,True,,,False,False,False,False,False,False,True,True,True,False,False,True,True,True,True,5days Battery
+505,boAt Wave Cosmos Max Smartwatch,1575,4.55,True,False,False,False,Bluetooth 5.0,True,2.0,True,,,False,False,True,True,False,True,True,True,False,True,False,False,False,False,False,
+506,Amazfit Cheetah Smartwatch,21999,4.05,True,True,False,False,Bluetooth 5.3,True,1.39,False,,,False,True,False,True,True,True,True,True,True,True,True,False,False,False,False,
+507,Noise ColorFit Thrive Smartwatch,1099,4.6,False,False,False,False,Bluetooth 5.1,True,1.85,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+508,Hublot Big Bang e Smartwatch,445999,4.25,True,True,True,False,Bluetooth 5.0,False,1.39,True,1.0,8.0,True,True,True,True,True,True,True,True,True,True,True,False,False,False,False,
+509,Gizmore Gizfit Curve Smartwatch,1299,4.5,False,False,False,False,Bluetooth 5.0,True,1.39,True,,,False,False,False,True,False,False,True,True,True,True,False,False,False,False,False,7days Battery
+510,Hammer Fit Plus Smartwatch,1469,4.65,False,True,False,False,Bluetooth,True,1.85,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,5days Battery
+511,boAt Ultima Call Smartwatch,1099,4.3,False,False,False,False,Bluetooth 5.1,True,1.83,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+512,Garmin Epix Pro Gen 2 Smartwatch 42mm,111990,4.6,True,True,False,False,Bluetooth 5.3,True,1.2,True,,,False,True,True,True,True,True,True,True,True,True,False,False,False,False,False,
+513,Oppo Watch 5,25999,4.25,False,True,True,True,Bluetooth 5.0,True,1.9,True,1.0,32.0,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,
+514,Pebble Frost Pro Smartwatch,899,4.7,False,False,False,False,Bluetooth 5.0,True,1.96,True,,,False,False,False,False,False,True,True,True,True,True,False,True,True,True,True,
+515,Fire Boltt Dagger Luxe Smartwatch,2499,4.65,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+516,Noise Genius Smartwatch,4999,4.2,False,False,False,True,Bluetooth,False,1.4,True,,,False,False,False,False,False,False,False,True,False,False,False,True,False,True,True,3days Battery
+517,Noise ColorFit Prodigy Smartwatch,1799,4.1,False,False,False,False,Bluetooth,True,2.0,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+518,boAt Lunar Connect Plus Smartwatch,1999,4.45,False,False,False,False,Bluetooth 5.3,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+519,Alt OG Supreme Smartwatch,1999,4.55,False,False,False,False,Bluetooth 5.2,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+520,Fire Boltt Ultimate Smartwatch,1399,4.65,False,False,False,False,Bluetooth 5.0,True,1.39,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+521,Gizmore Glow Z Smartwatch,2299,4.75,False,False,False,False,Bluetooth,True,1.78,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,5days Battery
+522,beatXP Flux Smartwatch,1099,4.1,False,False,False,False,Bluetooth,True,1.45,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+523,Kospet Tank X1 Smartwatch,5799,4.15,False,False,False,False,Bluetooth 5.1,False,1.47,True,,,True,True,True,True,True,True,True,True,True,True,True,False,False,False,False,
+524,Noise NoiseFit Diva Smartwatch,2999,4.3,False,False,False,False,Bluetooth,True,1.01,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+525,Samsung Galaxy Watch 5 Bespoke Edition Bluetooth 40mm,41710,4.35,False,True,True,False,Bluetooth 5.2,True,1.4,True,1.5,16.0,True,True,True,True,True,False,False,False,False,True,False,False,False,False,False,
+526,Pebble Cosmos Vault Smartwatch,1799,4.55,False,False,False,False,Bluetooth 5.0,True,1.43,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+527,boAt Ultima Call Max Smartwatch,1299,4.2,False,False,False,False,Bluetooth 5.1,True,2.0,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+528,Crossbeats Ignite Hustl Smartwatch,1699,4.35,False,False,False,False,Bluetooth 5.3,True,,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,8days Battery
+529,Samsung Galaxy Watch 6 Pro,55999,4.7,False,True,True,True,Bluetooth 5.3,False,1.47,True,3.0,32.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+530,boAt Lunar Connect Ace Smartwatch,1999,4.05,False,False,False,False,Bluetooth 5.1,True,1.42,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+531,Noise NoiseFit Voyage Smartwatch,10899,4.65,False,True,False,True,Bluetooth 5.3,False,1.4,True,,,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+532,Noise ColorFit Quad Call Smartwatch,1099,4.55,False,False,False,False,Bluetooth,True,1.81,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+533,boAt Ultima Connect Max Smartwatch,999,4.7,False,False,False,False,Bluetooth 5.1,True,2.0,True,,,False,False,False,False,False,True,True,True,True,True,False,True,True,True,True,10days Battery
+534,Alt Drip Max Smartwatch,1299,4.7,False,False,False,False,Bluetooth 5.2,True,2.0,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,7days Battery
+535,Noise NoiseFit Curve Smartwatch,1269,4.65,False,False,False,False,Bluetooth 5.3,True,1.38,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+536,boAt Watch Wanderer Smartwatch,5999,4.15,False,True,False,True,Bluetooth 5.1,True,1.4,True,,,True,True,False,False,False,False,False,False,True,False,False,False,False,False,False,2days Battery
+537,Fastrack Reflex Vox 3 Smartwatch,4499,4.4,False,False,False,False,Bluetooth,True,1.8,True,,,False,True,False,True,True,False,True,True,False,True,False,False,False,False,False,
+538,Noise ColorFit Icon 4 Smartwatch,2499,4.25,False,False,False,False,Bluetooth 5.3,True,1.95,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+539,Fire Boltt Shark Smartwatch,1099,4.3,False,False,False,False,Bluetooth 5.0,True,1.83,True,,,False,True,False,True,False,True,True,True,False,False,False,False,False,False,False,8days Battery
+540,Boult Drift Pro Smartwatch,2199,4.4,False,False,False,False,Bluetooth 5.1,True,1.78,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+541,Gizmore Cult Smartwatch,2499,4.7,False,False,False,False,Bluetooth 5.2,True,1.52,True,,,False,True,True,True,False,True,True,True,True,True,True,False,False,False,False,
+542,Noise NoiseFit Nova Smartwatch,2499,4.45,False,False,False,False,Bluetooth 5.3,True,1.46,True,,,False,False,False,True,False,True,False,True,False,True,False,False,False,False,False,10days Battery
+543,boAt Storm Connect Plus Smartwatch,1099,4.45,False,False,False,False,Bluetooth 5.3,True,1.91,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+544,Rogbid Mille Smartwatch,2499,4.2,False,False,False,False,Bluetooth 5.3,True,1.91,True,,,False,True,True,True,True,True,True,True,True,True,False,False,False,False,False,
+545,Turet Sourcandy Smartwatch,3396,4.65,False,False,False,True,,False,1.3,False,,,False,False,False,False,False,False,False,True,False,False,False,True,True,True,True,1day Battery
+546,Ambrane Crest Pro Smartwatch,1299,4.75,False,False,False,False,Bluetooth,True,1.52,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+547,Noise ColorFit Vision 3 Smartwatch,2399,4.2,False,False,False,False,Bluetooth 5.3,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+548,boAt Xtend Call Plus Smartwatch,1099,4.1,False,False,False,False,Bluetooth 5.3,True,1.91,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+549,Hammer Ace Ultra Smartwatch,2864,4.65,False,True,False,False,Bluetooth 5.0,True,1.93,True,,,False,True,False,True,True,True,True,True,False,True,False,False,False,False,False,
+550,U&i My Beats 2.0 Smartwatch,3699,4.25,False,True,False,False,Bluetooth,True,,True,,,False,False,False,False,False,False,True,True,True,False,False,True,True,True,True,
+551,U&i My Life Smartwatch,2499,4.0,False,False,True,False,Bluetooth,True,1.8,True,,,False,True,False,True,False,False,True,True,True,False,False,True,True,True,True,
+552,Hammer Pulse X Smartwatch,1099,4.3,False,False,False,False,Bluetooth,True,1.83,True,,,False,False,False,True,False,True,True,True,True,True,True,False,False,False,False,5days Battery
+553,Huawei Watch Kids 4 Pro,9999,4.3,True,False,False,True,Bluetooth,False,1.41,True,1.0,8.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,
+554,Fire Boltt King Smartwatch,2000,4.35,False,False,False,False,Bluetooth,True,1.78,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+555,Noise ColorFit Ultra 4 Smartwatch,5499,4.35,False,False,False,False,Bluetooth 5.3,True,2.0,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+556,Noise ColorFit Impact Smartwatch,1299,4.0,False,False,False,False,Bluetooth 5.2,True,2.0,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+557,Pebble Cosmos Bold Pro Smartwatch,1599,4.05,False,False,False,False,Bluetooth 5.0,True,1.39,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+558,Hoco Y5 Smartwatch,7199,4.15,False,False,False,False,Bluetooth,True,1.7,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,3days Battery
+559,Fire Boltt Ninja Call Ultra Smartwatch,999,4.7,False,False,False,False,Bluetooth 5.0,True,1.83,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+560,Garmin Venu 3 Smartwatch,44999,4.75,True,True,True,False,Bluetooth,True,1.4,True,,8.0,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+561,Noise ColorFit Caliber 3 Smartwatch,1599,4.7,False,False,False,False,Bluetooth 5.3,True,1.78,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+562,Fire Boltt Talk 2 Pro Smartwatch,1799,4.7,False,False,False,False,Bluetooth,True,1.39,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+563,Amazfit GTR 4 Limited Edition Smartwatch,20499,4.35,True,True,True,False,Bluetooth 5.0,True,1.43,True,,,False,False,True,True,False,True,True,True,True,True,True,False,False,False,False,
+564,Fire Boltt Aura Smartwatch,1999,4.5,False,False,False,False,Bluetooth 5.0,True,1.09,True,,,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,
+565,Fire Boltt Jaguar Smartwatch,1999,4.75,False,False,False,False,Bluetooth,True,1.83,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+566,Zeblaze Ares 3 Smartwatch,3999,4.25,False,False,False,False,Bluetooth 5.1,False,1.52,True,,,False,True,True,True,False,True,True,True,False,True,False,False,False,False,False,15days Battery
+567,Itel Smartwatch 2ES,1437,4.3,False,False,False,False,Bluetooth 5.3,False,1.8,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,12days Battery
+568,Pebble Cosmos Nova Smartwatch,1999,4.65,False,False,False,False,Bluetooth 5.0,True,1.96,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+569,RD Treasure Pro X-40 Smartwatch,2099,4.3,False,False,False,False,Bluetooth,True,1.69,True,,,False,True,False,True,False,False,False,True,True,True,False,False,False,False,False,
+570,Noise ColorFit Ultra 3 Smartwatch,2499,4.65,False,False,False,False,Bluetooth 5.3,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+571,beatXP Marv Raze Smartwatch,999,4.75,False,False,False,False,Bluetooth,True,1.96,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,2days Battery
+572,Noise ColorFit Spark Smartwatch,1040,4.55,False,False,False,False,Bluetooth 5.3,True,2.0,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+573,Noise NoiseFit Fuse Plus Smartwatch,1699,4.3,False,False,False,False,Bluetooth 5.3,True,1.46,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+574,Fire Boltt Visionary Ultra Smartwatch,1599,4.35,False,False,False,False,Bluetooth,True,1.78,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+575,Fire Boltt Phoenix Ultra Smartwatch,1499,4.55,False,False,False,False,Bluetooth,True,1.39,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+576,Alt Hunk Smartwatch,999,4.25,False,False,False,False,Bluetooth 5.0,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+577,Noise NoiseFit Mettle Smartwatch,1799,4.25,False,False,False,False,Bluetooth 5.3,True,1.4,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+578,boAt Wave Stride Voice Smartwatch,1399,4.6,False,False,False,False,Bluetooth 5.1,True,1.83,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+579,Hammer Stroke Smartwatch,1299,4.6,False,False,False,False,Bluetooth,True,1.96,True,,,False,False,False,False,True,True,False,True,False,True,False,True,True,True,True,5days Battery
+580,CompaQ Dimension Smartwatch,2999,4.25,False,False,False,False,Bluetooth,True,1.34,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,7days Battery
+581,Noise ColorFit Mighty Smartwatch,1899,4.2,False,False,False,False,Bluetooth 5.3,True,1.96,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+582,Fastrack Limitless FS1 Smartwatch,1999,4.6,False,False,False,False,Bluetooth 5.3,True,1.95,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,
+583,alt Goat Smartwatch,1299,4.0,False,False,False,False,Bluetooth 5.3,True,1.78,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,7days Battery
+584,Ambrane  Wise Roam 2 Smartwatch,1499,4.2,False,False,False,False,Bluetooth,True,1.39,True,,,False,False,False,True,True,True,True,True,False,True,False,False,False,False,False,10days Battery
+585,Shaaimu Nimble Smartwatch,1599,4.6,False,False,False,False,Bluetooth,True,1.69,True,,,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,
+586,boAt Wave Force Smartwatch,1699,4.15,False,False,False,False,Bluetooth 5.2,True,1.83,True,,,False,True,True,True,False,True,True,True,False,True,False,False,False,False,False,
+587,Crossbeats Ignite Cube Smartwatch,1499,4.65,False,False,False,False,Bluetooth 5.3,True,1.9,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+588,Vibez Emerald Smartwatch,1249,4.35,False,False,False,False,Bluetooth,True,1.28,True,,,False,False,False,False,True,True,True,True,False,True,False,True,True,True,True,7days Battery
+589,Vibez Hype Smartwatch,1699,4.7,False,False,False,False,Bluetooth,True,1.85,True,,,False,False,False,False,False,True,True,True,False,True,False,True,True,True,True,7days Battery
+590,Just Corseca Spaccex Pro Smartwatch,8499,4.6,False,False,False,False,Bluetooth 5.0,True,1.96,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+591,Fire Boltt Collide Smartwatch,1849,4.5,False,False,False,False,Bluetooth 5.2,True,1.32,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+592,Fastrack Reflex Volt Smartwatch,1294,4.65,False,False,False,False,Bluetooth,False,1.69,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,5days Battery
+593,Alt Regal Smartwatch,1299,4.65,False,False,False,False,Bluetooth 5.1,True,1.28,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,7days Battery
+594,Boult Rover Pro Smartwatch,1999,4.65,False,False,False,False,Bluetooth 5.2,True,1.43,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,7days Battery
+595,boAt Lunar Call Plus Smartwatch,2199,4.65,False,False,False,False,Bluetooth 5.3,True,1.43,True,0.0078125,,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+596,Crossbeats Alpha Smartwatch,4999,4.75,False,False,False,False,Bluetooth 5.3,True,2.1,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+597,Fastrack Reflex Nitro Smartwatch,1575,4.3,False,False,False,False,Bluetooth 5.3,True,1.83,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+598,AXL Tempo Smartwatch,899,4.6,False,False,False,False,Bluetooth 5.0,True,1.69,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,6days Battery
+599,beatXP Unbound Plus Smartwatch,1499,4.6,False,False,False,False,Bluetooth 5.2,False,1.8,True,,,False,False,True,True,False,True,True,True,False,True,False,False,False,False,False,7days Battery
+600,Deeprio Stellar Smartwatch,1149,4.3,False,False,False,False,Bluetooth 5.1,False,1.8,True,,,False,False,False,True,False,True,False,True,False,True,False,True,True,True,True,7days Battery
+601,boAt Lunar Connect Pro Smartwatch,1999,4.05,False,False,False,False,Bluetooth 5.0,True,1.39,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+602,Alt Vibe Pro Smartwatch,999,4.15,False,False,False,False,Bluetooth 5.0,True,1.5,True,,,False,False,False,True,True,True,True,True,False,True,False,False,False,False,False,7days Battery
+603,Hammer Pulse Ace 2.0 Smartwatch,1099,4.75,False,False,False,False,Bluetooth,True,1.83,True,,,False,False,False,False,True,False,True,True,False,True,False,True,True,True,True,3days Battery
+604,boAt Lunar Call Pro Smartwatch,1899,4.05,False,False,False,False,Bluetooth BLE 5.0 + BT 3.0,True,1.39,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+605,Nu Republic Creed Ultra Smartwatch,1799,4.75,False,False,False,False,Bluetooth 5.2,True,2.0,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,4days Battery
+606,Huawei Watch Ultimate,66999,4.45,False,True,True,False,Bluetooth 5.2,True,1.5,True,,,False,True,True,True,True,True,True,True,True,True,True,False,False,False,False,
+607,Fire Boltt Eclipse Smartwatch,3498,4.4,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+608,Turet Gumdrop Smartwatch,5499,4.75,True,True,False,True,Bluetooth,False,,True,,,True,False,False,False,False,False,True,True,True,False,False,False,True,True,True,
+609,Fire Boltt Ninja Talk Smartwatch,1299,4.35,False,False,False,False,Bluetooth 5.0,True,1.39,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+610,Noise ColorFit Pulse 3 Smartwatch,1199,4.65,False,False,False,False,Bluetooth 5.3,True,1.96,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+611,boAt Cosmos Smartwatch,1499,4.5,False,False,False,False,Bluetooth 5.0,False,1.78,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,7days Battery
+612,boAt Wave Smart Call Smartwatch,1199,4.65,False,False,False,False,Bluetooth,True,1.69,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+613,Boult Cosmic R Smartwatch,1199,4.05,False,False,False,False,Bluetooth 5.0,False,1.3,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,10days Battery
+614,Amazfit T-Rex Ultra Smartwatch,45999,4.25,True,True,False,False,Bluetooth 5.0,False,1.39,True,,,False,True,True,True,False,True,True,True,True,True,True,False,False,False,False,5days Battery
+615,boAt Wave Armour Smartwatch,1120,4.5,False,False,False,False,Bluetooth 5.2,True,1.83,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+616,Fire Boltt Warrior Smartwatch,1440,4.4,False,False,False,False,Bluetooth,True,1.96,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+617,Fire Boltt Edge Smartwatch,1494,4.3,False,False,False,False,Bluetooth,True,1.78,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+618,Fire Boltt Atlas Smartwatch,1500,4.5,False,False,False,False,Bluetooth 5.1,True,1.95,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,
+619,Fire Boltt Legend Smartwatch,999,4.6,False,False,False,False,Bluetooth,True,1.39,True,,,False,False,False,True,False,True,True,True,False,True,False,True,True,True,True,
+620,Fire Boltt Fighter Smartwatch,1699,4.5,False,False,False,False,Bluetooth 5.0,True,1.8,True,,,False,True,True,True,False,True,True,True,False,True,False,False,False,False,False,
+621,Fire Boltt Hurricane Pro Smartwach,894,4.2,False,False,False,False,Bluetooth 5.0,False,1.39,True,,,False,True,True,True,False,True,True,True,False,True,True,False,False,False,False,7days Battery
+622,Corseca Sprinter Pro Smartwatch,8999,4.5,False,False,False,False,Bluetooth 5.0,True,1.38,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,5days Battery
+623,Ambrane Wise Crest Smartwatch,1299,4.75,False,False,False,False,Bluetooth 5.0,True,1.39,True,,,False,True,False,True,True,True,True,True,False,True,False,False,False,False,False,
+624,boAt Wave Leap Call Smartwatch,1199,4.45,False,False,False,False,Bluetooth 5.1,True,1.83,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+625,Ambrane Wise Stud Smartwatch,999,4.25,False,False,False,False,Bluetooth 5.0,True,1.85,True,,,False,False,False,True,True,True,False,True,False,True,False,False,False,False,False,10days Battery
+626,SnapUp Connect Smartwatch,899,4.05,False,False,False,False,Bluetooth 5.0,True,1.75,True,0.015625,,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+627,SnapUp Turbo Smartwatch,1020,4.5,False,False,False,False,Bluetooth,True,1.85,True,0.0625,,True,False,False,True,False,True,True,True,True,True,False,False,False,False,False,
+628,SnapUp Infinity Smartwatch,2199,4.35,False,False,True,False,Bluetooth,True,1.99,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+629,Gionee Stylfit GSW11 Smartwatch,1287,4.05,False,False,False,False,Bluetooth,False,1.8,True,,,False,False,False,True,False,False,True,True,False,True,False,False,True,True,True,
+630,Huawei Watch 4 Pro,39699,4.65,True,True,True,True,Bluetooth 5.3,False,1.5,True,2.0,32.0,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,
+631,beatXP Unbound Neo Smartwatch,999,4.5,False,False,False,False,Bluetooth,True,1.8,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,5days Battery
+632,Fire Boltt Tide Plus Smartwatch,1050,4.55,False,False,False,False,Bluetooth,True,1.83,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+633,Gionee GSW12 Smartwatch,1790,4.25,False,False,False,False,Bluetooth 5.1,True,1.8,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+634,pTron Pulsefit P61 Smartwatch,1599,4.1,False,False,False,False,Bluetooth 5.0,True,1.85,True,,,False,False,False,True,True,True,True,True,False,True,False,False,False,False,False,5days Battery
+635,pTron Pulsefit P61 Plus Smartwatch,1299,4.1,False,False,False,False,Bluetooth 5.0,True,1.85,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,5days Battery
+636,Zeblaze Vibe 7 Pro Smartwatch,2999,4.75,False,False,False,False,Bluetooth 5.1,True,1.43,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+637,Fire Boltt Eterno Smartwatch,894,4.5,False,False,False,False,Bluetooth,True,1.99,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+638,Crossbeats Ignite Pingg Smartwatch,1299,4.5,False,False,False,False,Bluetooth 5.2,True,1.83,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+639,Boult Drift Plus Smartwatch,1099,4.4,False,False,False,False,Bluetooth 5.1,True,1.85,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+640,Huawei Watch 4,31599,4.05,True,True,True,True,Bluetooth 5.3,False,1.5,True,2.0,16.0,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,
+641,Google Pixel Watch 2,35990,4.35,True,True,True,False,Bluetooth 5.0,True,1.2,True,2.0,32.0,True,True,True,True,False,False,False,False,False,True,False,False,False,False,False,
+642,Gizmore GizFit Flash Smartwatch,1499,4.35,False,False,False,False,Bluetooth 5.0,True,1.85,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+643,Fire Boltt Invincible Plus Smartwatch,2999,4.05,False,False,False,False,Bluetooth 5.0,True,1.43,True,,4.0,True,False,False,True,False,True,True,True,True,True,False,False,False,False,False,
+644,Redmi Watch 3 Lite,4999,4.65,False,False,True,False,Bluetooth 5.3,True,1.83,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+645,Noise Scout Smartwatch,4999,4.2,False,True,False,True,Bluetooth,False,1.4,True,,,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,3days Battery
+646,Hammer Ace 3.0 Smartwatch,1149,4.4,False,False,False,False,Bluetooth 5.0,True,1.85,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,2days Battery
+647,boAt Wave Elite Smartwatch,1199,4.6,False,False,False,False,Bluetooth 5.0,False,1.65,True,,,False,False,False,True,False,True,True,True,False,True,False,True,True,True,True,7days Battery
+648,Cult Sport Burn Smartwatch,2499,4.75,False,False,False,False,Bluetooth 5.1,True,1.78,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+649,Varni Smart Pro T2 Smartwatch,2199,4.65,False,False,False,False,Bluetooth 5.3,True,1.96,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+650,Alt Spunk Smartwatch,999,4.05,False,False,False,False,Bluetooth 5.3,True,1.45,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+651,Boult Striker Smartwatch,1199,4.0,False,False,False,False,Bluetooth 5.1,True,1.3,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+652,Alt Spunk Pro Smartwatch,1499,4.5,False,False,False,False,Bluetooth 5.3,True,1.45,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+653,Garmin MARQ Aviator Gen 2 Smartwatch,194990,4.6,True,True,False,False,Bluetooth,False,1.2,True,,32.0,True,True,True,True,True,True,True,True,True,True,True,False,False,False,False,
+654,Garmin MARQ Captain Gen 2 Smartwatch,225990,4.0,True,True,False,False,Bluetooth,False,1.2,True,,32.0,True,True,True,True,True,True,True,True,True,True,True,False,False,False,False,
+655,boAt Lunar Connect Smartwatch,1099,4.3,False,False,False,False,Bluetooth 5.3,True,1.28,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+656,boAt Wave Flex Connect Smartwatch,999,4.6,False,False,False,False,Bluetooth,True,1.83,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+657,Tempt Edge Pro Smartwatch,3799,4.35,False,True,False,False,Bluetooth,True,1.51,True,,,False,True,False,True,True,True,True,True,True,False,False,False,False,False,False,
+658,Noise NoiseFit Arc Smartwatch,1299,4.6,False,False,False,False,Bluetooth,True,1.38,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,
+659,Noise NoiseFit Fuse Smartwatch,1199,4.3,False,False,False,False,Bluetooth 5.3,True,1.38,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,
+660,Vehop Blaze Pro Smartwatch,1999,4.05,False,True,True,False,Bluetooth 5.2,True,1.9,True,,,False,True,False,True,True,True,True,True,True,True,True,False,False,False,False,
+661,Fire Boltt Blizzard Smartwatch,1440,4.55,False,False,False,False,Bluetooth 5.0,True,1.28,True,,,False,True,True,True,False,True,True,True,False,True,False,False,False,False,False,
+662,boAt Wave Call Plus Smartwatch,1099,4.3,False,False,False,False,Bluetooth,True,1.83,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+663,pTron Force X12N Smartwatch,1549,4.2,False,False,False,False,Bluetooth 5.0,True,1.85,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,5days Battery
+664,Fire Boltt Ninja 3 Plus Smartwatch,1099,4.65,False,False,False,False,Bluetooth,False,1.85,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+665,Maxima Max Pro X4 Plus Smartwatch,1999,4.55,False,False,False,False,Bluetooth 5.0,True,1.32,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+666,Turet Cotton Candy Smartwatch,4999,4.45,True,True,False,True,,False,1.4,True,,,True,True,False,False,False,False,True,True,True,False,False,False,False,False,False,1day Battery
+667,Crossbeats Ignite S6 Smartwatch,4499,4.7,True,False,False,False,Bluetooth 5.3,True,2.0,True,,,False,True,True,True,True,True,True,True,True,True,True,False,False,False,False,
+668,Fitshot Aster Smartwatch,1900,4.05,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+669,Alt OG Pro Smartwatch,1299,4.4,False,False,False,False,Bluetooth,True,1.93,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+670,Boult Swing Smartwatch,1699,4.7,False,False,False,False,Bluetooth 5.1,True,1.95,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+671,Gizmore Gizfit Cloud Smartwatch,1199,4.3,False,False,False,False,Bluetooth 5.0,True,1.85,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+672,Gizmore Gizfit Vogue Smartwatch,1843,4.2,False,False,False,False,Bluetooth 5.0,True,1.95,True,,,False,False,True,True,False,True,True,True,False,True,True,False,False,False,False,
+673,Fire Boltt Quantum Smartwatch,2399,4.05,False,False,False,False,Bluetooth,True,1.28,True,,,True,True,True,True,False,False,False,False,False,True,False,False,False,False,False,
+674,WatchOut Senior Pro Smartwatch,5600,4.15,True,True,False,True,Bluetooth,False,,True,,,True,False,False,True,True,True,True,True,False,True,False,False,False,False,False,
+675,Zebronics Iconic Ultra Smartwatch,3745,4.2,False,False,False,False,Bluetooth 5.1,True,1.78,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+676,Amazfit GTS 5 Smartwatch,19999,4.05,False,True,False,False,Bluetooth 5.3,True,1.85,True,,,False,True,True,True,True,True,True,True,True,True,True,False,False,False,False,
+677,Amazfit GTR 5 Smartwatch,21999,4.2,True,True,True,False,Bluetooth 5.3,True,1.45,True,4.0,,True,True,True,True,True,False,False,False,False,True,False,False,False,False,False,
+678,Fire Boltt Saturn Smartwatch,3999,4.1,False,False,False,False,Bluetooth,True,1.78,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+679,Fire Boltt Talk 3 Smartwatch,2199,4.0,False,False,False,False,Bluetooth,True,1.28,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+680,Ambrane Wise Eon Max Smartwatch,1299,4.45,False,False,False,False,Bluetooth,True,2.01,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+681,Alt Vibe Smartwatch,899,4.45,False,False,False,False,Bluetooth 5.1,True,1.38,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+682,boAt Wave Lynk Voice Smartwatch,1199,4.0,False,False,False,False,Bluetooth 5.0,True,1.69,True,,,False,False,False,False,False,False,True,True,True,True,False,False,True,True,True,7days Battery
+683,Fire Boltt Astro Smartwatch,1499,4.6,False,False,False,False,Bluetooth 5.0,True,1.78,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+684,Samsung Galaxy Watch 5 Golf Edition 45mm,46999,4.65,False,True,True,False,Bluetooth 5.2,True,1.2,True,1.5,16.0,True,False,True,True,True,False,False,False,False,True,False,False,False,False,False,
+685,Fire Boltt Talk Ultra Smartwatch,1599,4.65,False,False,False,False,Bluetooth 5.0,True,1.39,True,,,False,True,True,True,False,True,True,True,False,True,False,False,False,False,False,
+686,Titan Talk S Smartwatch,5899,4.4,False,False,False,False,Bluetooth 5.2,True,1.78,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+687,Pebble Cosmos Luxe 2.0 Smartwatch,4199,4.6,False,False,False,False,Bluetooth 5.0,True,1.43,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+688,Fastrack Reflex Beat Plus Smartwatch,1799,4.25,False,False,False,False,Bluetooth,False,1.69,True,,,False,True,True,True,False,False,True,True,False,True,False,True,True,True,True,
+689,TAG Heuer Connected Calibre E4 Sports Edition Smartwatch,207999,4.75,True,False,True,False,Bluetooth 5.0,False,1.39,True,,,False,True,True,True,True,True,True,True,True,True,True,False,False,False,False,1day Battery
+690,TAG Heuer Connected Calibre E4 Smartwatch,187999,4.25,True,False,True,False,Bluetooth,False,1.28,True,,,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False,1day Battery
+691,Giordano GT-01 Smartwatch,3420,4.3,False,False,False,False,Bluetooth 4.0,True,1.28,True,0.125,,True,True,True,True,True,False,False,False,False,True,False,False,False,False,False,
+692,boAt Wave Style Call Smartwatch,1099,4.55,False,False,False,False,Bluetooth 5.0,True,1.69,True,,,False,True,False,True,False,False,True,True,True,True,False,False,False,False,False,
+693,Dizo Watch D Ultra,3299,4.5,False,False,False,False,Bluetooth 5.2,True,1.78,True,,,False,True,True,True,False,True,True,True,False,True,False,False,False,False,False,
+694,Pebble Cosmos Grande Smartwatch,2799,4.0,False,False,False,False,Bluetooth 5.0,True,2.1,True,,,False,True,False,True,True,True,True,True,False,True,False,False,False,False,False,
+695,boAt Wave Infinity Smartwatch,1299,4.5,False,False,False,False,Bluetooth 5.1,True,1.85,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+696,Bymaya A1104 Smartwatch,415,4.6,False,False,False,False,Bluetooth,False,1.34,True,,,False,False,False,True,True,True,True,True,False,False,False,True,False,False,False,5days Battery
+697,Fire Boltt Supernova Smartwatch,1499,4.45,False,False,False,False,Bluetooth 5.0,True,1.78,True,,,False,False,True,True,False,True,True,True,False,True,False,False,False,False,False,
+698,Zebronics Zeb-Iconic Lite Smartwatch,1999,4.75,False,False,False,False,Bluetooth 5.1,True,1.78,True,,,False,True,False,True,True,True,True,True,False,True,False,False,False,False,False,
+699,Noise NoiseFit Twist Smartwatch,1199,4.45,False,False,False,False,Bluetooth 5.3,True,1.38,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+700,Imoo Watch Phone Z6,13990,4.5,True,True,False,True,Bluetooth,False,1.41,True,,8.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,
+701,Imoo Watch Phone Z1,7990,4.65,True,True,False,True,Bluetooth,False,1.3,True,,8.0,True,False,False,False,False,False,False,True,True,False,False,True,True,True,True,
+702,Gizmore Blaze Max Smartwatch,1499,4.05,False,False,False,False,Bluetooth 5.0,True,1.85,True,,,False,False,True,True,False,True,False,True,False,True,True,False,False,False,False,
+703,Compaq Q Watch Dimension Series Smartwatch,2618,4.15,False,False,False,False,Bluetooth,True,1.81,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+704,Fire Boltt Rocket Smartwach,994,4.05,False,False,False,False,Bluetooth 5.0,True,1.3,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+705,Syska Stellar Smartwatch,1698,4.1,False,False,False,False,Bluetooth,True,1.28,True,,,False,False,False,False,False,True,True,True,True,True,False,True,True,True,True,1.5days Battery
+706,boAt Wave Beat Call Smartwatch,999,4.1,False,False,False,False,Bluetooth 5.0,True,1.69,True,,,False,True,False,True,False,False,True,True,True,True,False,False,False,False,False,
+707,Pebble Cosmos Engage Smartwatch,994,4.75,False,False,False,False,Bluetooth 5.0,True,1.95,True,,,False,True,True,True,True,True,True,True,False,True,False,False,False,False,False,
+708,beatXP Marv Super Smartwatch,1099,4.25,False,False,False,False,Bluetooth 5.1,True,2.0,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+709,boAt Wave Edge Smartwatch,1199,4.7,False,False,False,False,Bluetooth 5.1,True,1.85,True,,,False,True,False,True,False,False,True,True,False,True,False,False,False,False,False,
+710,beatXP Vega Smartwatch,1299,4.3,False,False,False,False,Bluetooth 5.2,True,1.43,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+711,Fire Boltt Ninja Calling Pro Plus Smartwatch,999,4.65,False,False,False,False,Bluetooth 5.0,True,1.83,True,,,False,False,False,True,False,False,True,True,True,True,False,False,False,False,False,5days Battery
+712,Redmi Watch 3,16999,4.15,False,True,False,False,Bluetooth 5.2,True,1.75,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+713,Fire Boltt Hercules Smartwatch,1599,4.05,False,False,False,False,Bluetooth 5.0,True,1.83,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+714,Fire Boltt Rise Smartwatch,1299,4.2,False,False,False,False,Bluetooth 5.0,True,1.85,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,7days Battery
+715,Kospet Tank T2 Smartwatch,7999,4.55,False,False,False,False,Bluetooth 5.0,True,1.43,True,0.0625,,True,False,False,True,True,True,True,True,True,True,False,False,False,False,False,
+716,RD Concur X-30 Smartwatch,1599,4.75,False,False,False,False,Bluetooth 5.1,True,1.69,True,,,False,True,False,True,True,False,True,True,False,True,False,False,False,False,False,
+717,boAt Wave Electra Smartwatch,1299,4.1,False,False,False,False,Bluetooth,True,1.81,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,7days Battery
+718,Fire Boltt Celsius Smartwatch,894,4.65,False,False,False,False,Bluetooth 5.0,False,1.91,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,8days Battery
+719,Fire Boltt Epic Plus Smartwatch,1199,4.4,False,False,False,False,Bluetooth 5.0,False,1.83,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+720,Noise HRX Bounce Smartwatch,1164,4.1,False,False,False,False,Bluetooth 5.1,True,1.39,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,
+721,Noise NoiseFit Crew Smartwatch,1199,4.0,False,False,False,False,Bluetooth,True,1.38,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,
+722,Salora uWear SSW-003 Smartwatch,2999,4.35,False,False,False,False,Bluetooth,True,2.1,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+723,Garmin Vivofit Jr 3 Kids Smartwatch,4799,4.1,False,False,False,False,Bluetooth,False,0.56,True,,,False,True,False,False,False,False,True,True,True,False,False,True,True,True,True,
+724,Cosmo JrTrack 2 SE Kids Smartwatch,7199,4.35,False,True,False,True,,False,,True,,,False,False,False,False,False,False,False,True,True,False,False,True,True,True,True,
+725,XPLORA X5 Play  Kids Smartwatch,18799,4.2,False,True,False,True,,False,1.4,True,,,True,True,False,False,False,False,False,True,True,False,False,True,True,True,True,
+726,Spacetalk Adventurer Kids Smartwatch,15999,4.5,False,True,False,True,Bluetooth 4.2,True,,True,,,False,False,False,True,False,False,False,True,True,False,False,True,True,True,True,
+727,TickTalk 4 Smartwatch,15999,4.55,True,True,False,True,Bluetooth 4.2,False,1.54,True,1.0,8.0,True,True,False,False,False,False,False,True,False,False,False,False,False,False,False,
+728,Oppo Watch 3 Pro,23500,4.1,False,True,True,True,Bluetooth 5.0,True,1.91,True,1.0,32.0,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,
+729,Sekyo S2 Kids Smartwatch,2428,4.45,False,True,False,True,,False,1.54,True,0.125,,True,True,True,False,False,False,False,True,False,False,False,False,False,False,False,
+730,Sekyo S1 Smartwatch,2324,4.75,False,True,False,True,,False,,True,,,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,
+731,Gizmore Blaze X Smartwatch,1699,4.05,False,False,False,False,Bluetooth 5.0,True,1.85,True,,,False,False,False,True,False,True,False,True,False,True,True,False,False,False,False,5days Battery
+732,Noise ColorFit Pro 4 Alpha Smartwatch,2099,4.4,False,False,False,False,Bluetooth 5.3,True,1.78,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+733,beatXP Exact Smartwatch,3499,4.25,False,False,False,False,Bluetooth 5.0,False,1.32,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,7days Battery
+734,boAt Wave Arcade Smartwatch,1499,4.05,False,False,False,False,Bluetooth 5.0,True,1.8,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+735,Fire Boltt Tank Smartwatch,1499,4.75,False,False,False,False,Bluetooth,True,1.85,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+736,Pebble Cosmos Endure Smartwatch,4699,4.5,False,False,False,False,Bluetooth 5.0,True,1.46,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+737,Realme Watch 4,3999,4.3,False,False,False,False,Bluetooth 5.3,True,1.8,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+738,Ambrane Wise Glaze Smartwatch,1299,4.5,False,False,False,False,Bluetooth,True,1.78,True,,,False,False,False,True,False,False,True,True,False,True,False,False,False,False,False,7days Battery
+739,Noise ColorFit Icon 3 Smartwatch,1199,4.6,False,False,False,False,Bluetooth 5.1,True,1.91,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+740,Boult Rover Smartwatch,1999,4.15,False,False,False,False,Bluetooth 5.2,True,1.3,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+741,Mibro Lite 2 Smartwatch,4999,4.5,False,False,False,False,Bluetooth,True,1.3,True,,,False,True,False,True,False,False,True,True,False,True,False,False,False,False,False,
+742,Huawei Watch Kids 5X,35999,4.6,True,True,False,True,Bluetooth,True,1.41,True,1.0,8.0,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,
+743,Xiaomi Watch S2 46mm,12999,4.7,False,True,False,False,Bluetooth 5.2,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+744,beatXP Marv Smartwatch,1299,4.5,False,False,False,False,Bluetooth 5.3,True,1.85,True,,,False,True,False,True,True,False,True,False,False,True,False,False,False,False,False,
+745,beatXP Unbound Smartwatch,1499,4.05,False,False,False,False,Bluetooth,True,1.78,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+746,Alt OG Max Smartwatch,999,4.3,False,False,False,False,Bluetooth,True,1.8,True,,,False,False,True,True,False,True,False,True,False,True,False,False,False,False,False,
+747,FLiX Sprint S21 Talkon Smartwatch,2441,4.0,False,False,False,False,Bluetooth 5.0,True,1.81,True,,,False,True,False,True,True,True,False,True,False,True,False,False,False,False,False,
+748,Garmin Bounce Kids Smartwatch,11999,4.55,True,True,False,True,Bluetooth,False,1.3,True,,,True,False,False,False,False,False,True,True,True,False,False,True,True,True,True,2days Battery
+749,Motorola Moto Watch 150,12300,4.3,True,True,True,False,Bluetooth 5.0,False,1.2,True,,,False,True,False,True,False,True,True,True,True,True,True,False,False,False,False,14days Battery
+750,Motorola Moto Watch 200,12999,4.45,True,True,False,False,Bluetooth 5.3,True,1.78,True,,,False,True,False,True,False,True,True,True,True,True,True,False,False,False,False,
+751,Dizo Watch R Talk Go,1999,4.2,False,False,False,False,Bluetooth 5.2,True,1.39,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+752,Huawei Watch GT 3 SE,14399,4.2,False,True,False,False,Bluetooth,True,1.43,True,,,False,True,False,True,False,False,True,True,False,True,False,False,False,False,False,
+753,boAt Wave Voice Smartwatch,1399,4.2,False,False,False,False,Bluetooth 5.1,True,1.69,True,,,False,True,False,True,False,False,True,False,False,True,False,False,False,False,False,
+754,Boult Ridge Smartwatch,1499,4.45,False,False,False,False,Bluetooth 5.0,True,1.8,True,,,False,True,False,True,False,False,True,True,False,True,False,False,False,False,False,
+755,Portronics Kronos X4 Smartwatch,1899,4.4,False,False,False,False,Bluetooth 5.0,True,1.85,True,,,False,True,False,True,False,False,True,True,False,True,False,False,False,False,False,
+756,Turet Gator Smartwatch,4499,4.7,False,True,False,True,,False,1.3,True,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,1.25days Battery
+757,Dizo Watch D Plus,1599,4.1,False,False,False,False,Bluetooth 5.1,False,1.85,True,,,False,True,True,True,False,True,True,True,False,True,True,False,False,False,False,14days Battery
+758,Alt Lit Smartwatch,999,4.0,False,False,False,False,Bluetooth,True,1.85,True,,,False,False,True,True,False,True,False,True,False,True,False,False,False,False,False,
+759,Pebble Cosmos Prime Smartwatch,3899,4.6,False,True,False,False,Bluetooth 5.0,True,1.91,True,,,False,True,False,True,True,False,True,True,False,True,False,False,False,False,False,
+760,Xiaomi Haylou Solar Plus RT3 Smartwatch,3680,4.35,False,False,False,False,Bluetooth 5.3,True,1.43,True,,,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+761,Huawei Watch GT Cyber,14160,4.25,True,True,True,False,Bluetooth,True,1.32,True,,,False,True,True,True,False,False,True,True,False,True,False,False,False,False,False,
+762,Xiaomi Mi Rabbit 6X Ultraman Custom Edition Children's Smartwatch,8799,4.1,False,False,False,True,,False,1.52,True,,4.0,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,
+763,LIGE Smartwatch,2592,4.05,False,False,True,False,Bluetooth 5.1,True,1.28,True,,,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,7days Battery
+764,Itel Smartwatch 1GS,2999,4.3,False,False,False,False,Bluetooth,True,1.32,True,,,False,True,False,True,False,False,False,False,False,True,False,False,False,False,False,7days Battery
+765,Crossbeats Orbit Apex Smartwatch,2999,4.45,False,False,False,False,Bluetooth 5.1,True,1.4,True,,,False,True,False,True,True,True,True,True,False,True,False,False,False,False,False,
+766,Gizmore GizFit Glow Luxe Smartwatch,2499,4.1,False,False,False,False,Bluetooth 5.0,True,1.32,True,,,False,True,False,True,False,True,True,True,False,True,True,False,False,False,False,
+767,Amazfit Falcon Smartwatch,54999,4.1,True,True,False,False,Bluetooth 5.0,True,1.28,True,,,False,True,False,True,True,True,True,True,True,True,True,False,False,False,False,
+768,Tag Heuer Formula 1 x Mario Kart Chronograph Tourbillon Smartwatch,2048000,4.25,True,True,True,False,Bluetooth,False,,False,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,
+769,Tag Heuer Formula 1 X Mario Kart Limited Edition Smartwatch,344000,4.0,True,True,True,False,Bluetooth,False,,False,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,
+770,boAt Wave Prime 47 Smartwatch,999,4.3,False,False,False,False,Bluetooth 5.0,True,1.69,True,,,False,True,False,True,False,False,True,False,False,True,False,False,False,False,False,
+771,Samsung Galaxy Watch 6 LTE 40mm,33999,4.45,True,True,True,True,Bluetooth 5.3,False,1.3,True,2.0,16.0,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,
+772,Fossil Gen 6 Wellness Edition Smartwatch,9598,4.6,True,True,True,False,Bluetooth 5.0,True,1.28,True,1.0,8.0,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+773,Honor Children Smartwatch,3680,4.35,False,False,False,True,,False,,True,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,
+774,Hungama HiLife G1 Smartwatch,694,4.15,False,False,False,False,Bluetooth,True,1.75,True,,,False,True,False,True,True,False,True,False,False,True,False,False,False,False,False,
+775,Noise ColorFit Victor Smartwatch,1299,4.2,False,False,False,False,Bluetooth 5.3,True,1.85,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+776,Hammer Pulse Ace Smartwatch,1099,4.15,False,False,False,False,Bluetooth 5.0,True,1.69,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+777,Fire Boltt Ninja Pro Max Plus Smartwatch,1099,4.5,False,False,False,False,Bluetooth 5.0,True,1.83,True,,,False,False,True,True,False,True,True,True,False,True,False,False,False,False,False,
+778,boAt Wave Ultima Smartwatch,1299,4.25,False,False,False,False,Bluetooth 5.3,True,1.81,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,10days Battery
+779,Noise ColorFit Icon 2 Vista Smartwatch,1499,4.6,False,False,False,False,Bluetooth 5.1,True,1.78,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+780,Ambrane Wise Eon Pro Smartwatch,1299,4.55,False,False,False,False,Bluetooth 5.0,True,1.85,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,10days Battery
+781,Corseca Spaccex Smartwatch,2499,4.2,False,False,False,False,Bluetooth 5.0,True,,True,,,False,False,False,True,False,False,True,False,True,True,False,False,False,False,False,
+782,Titan Talk Smartwatch,5994,4.6,False,False,False,False,Bluetooth,True,1.3,True,,,False,True,False,True,True,True,True,True,True,True,True,False,False,False,False,
+783,Crossbeats Ignite S3 Max Smartwatch,1799,4.6,False,False,False,False,Bluetooth 5.1,True,1.85,True,,,False,False,True,True,False,True,False,True,False,True,False,False,False,False,False,
+784,Sens Edyson 2 Smartwatch,1698,4.6,False,False,False,False,Bluetooth,True,1.32,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,3days Battery
+785,Fastrack Reflex Hello Smartwatch,1594,4.7,False,False,False,False,Bluetooth 5.1,True,1.69,True,,,False,False,False,True,True,True,True,True,False,True,False,False,False,False,False,5days Battery
+786,Crossbeats Ignite Grit Smartwatch,2299,4.75,False,False,False,False,Bluetooth 5.1,True,1.72,True,,,False,False,False,False,True,False,True,True,False,True,False,True,True,True,True,15days Battery
+787,Crossbeats Orbit Prizm Smartwatch,2299,4.0,False,False,False,False,Bluetooth 5.1,True,1.3,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+788,Crossbeats Ignite Crux Smartwatch,1299,4.45,False,False,False,False,Bluetooth,True,1.7,True,,,False,False,False,False,True,False,False,False,False,True,False,True,True,True,True,10days Battery
+789,Fire Boltt Ninja Call 2 Plus Smartwatch,794,4.1,False,False,False,False,Bluetooth 5.0,True,1.83,True,,,False,True,True,True,False,False,True,True,True,True,False,False,False,False,False,
+790,Noise ColorFit Loop Smartwatch,1099,4.45,False,False,False,False,Bluetooth 5.3,True,1.85,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+791,Mibro T1 Smartwatch,4499,4.2,False,True,False,False,Bluetooth 5.0,True,1.6,True,,,False,False,False,True,False,False,True,True,False,True,False,False,False,False,False,7days Battery
+792,Gioradano GT02 Smartwatch,4260,4.65,False,False,False,False,Bluetooth 4.0,False,1.65,True,0.0625,,True,False,True,True,True,True,True,True,True,True,False,False,False,False,False,
+793,Turet Kids Goldfish Smartwatch,4499,4.45,False,True,False,True,,False,1.3,True,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,1.25days Battery
+794,Fossil Gen 6 FTW6078 Smartwatch,24995,4.5,True,True,False,False,Bluetooth 5.0,False,1.28,False,1.0,8.0,True,False,False,True,False,False,True,True,False,True,True,False,False,False,False,
+795,AXL Ranger Smartwatch,1699,4.4,False,False,False,False,Bluetooth,True,1.8,True,,,False,False,True,True,True,False,True,False,False,True,False,False,False,False,False,
+796,Fire Boltt Ninja Call Pro Plus Smartwatch,1199,4.6,False,False,False,False,Bluetooth 5.0,True,1.83,True,,,False,True,False,True,False,False,True,True,True,True,False,False,False,False,False,
+797,Portronics Kronos Gamma Smartwatch,2699,4.5,False,False,False,False,Bluetooth 5.0,True,1.69,True,,,False,False,False,True,True,True,True,True,False,True,False,False,False,False,False,3days Battery
+798,Zebronics Zeb-FIT 580CH Smartwatch,1699,4.35,False,False,False,False,Bluetooth 5.1,True,1.85,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,
+799,TAGG Verve Max II Smartwatch,999,4.1,False,False,False,False,Bluetooth 5.1,True,1.83,True,,,False,True,False,True,False,False,True,True,True,True,False,False,False,False,False,
+800,TAGG Verve Engage Lite Smartwatch,1099,4.1,False,False,False,False,Bluetooth 5.0,True,1.69,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+801,Apple Watch SE 2nd Generation 44mm GPS,27199,4.45,True,True,False,False,Bluetooth 5.0,True,1.78,True,1.0,32.0,True,False,False,True,False,True,True,True,True,True,True,False,False,False,False,
+802,Fastrack Reflex Play Plus Smartwatch,6099,4.5,False,False,False,False,Bluetooth 5.0,True,1.3,True,,,False,True,True,True,True,True,True,True,True,True,False,False,False,False,False,
+803,Apple Watch SE 2nd Generation 40mm (GPS + Cellular),31299,4.15,False,True,False,True,Bluetooth 5.1,False,1.57,True,,,False,True,True,True,True,True,True,True,False,True,True,False,False,False,False,
+804,Apple Watch SE 2nd Gen 44mm (GPS + Cellular),33599,4.45,False,True,True,False,Bluetooth 5.0,False,1.78,True,1.0,32.0,True,False,True,True,False,True,True,True,False,True,False,False,False,False,False,
+805,Apple Watch Series 8 Stainless Steel 45 mm (GPS + Cellular),54999,4.6,True,True,False,False,Bluetooth 5.0,True,1.77,True,,32.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+806,Apple Watch Series 8 Stainless Steel 41 mm (GPS + Cellular),71999,4.65,True,True,False,False,Bluetooth 5.0,True,1.77,True,,32.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+807,Apple Watch Series 8 45mm (GPS),44999,4.35,True,True,False,False,Bluetooth 5.0,True,1.77,True,,32.0,True,True,True,True,False,False,False,False,False,True,False,False,False,False,False,
+808,TAGG Verve Neo Buzz Smartwatch,1999,4.2,False,False,False,True,,False,1.69,True,,,False,True,True,True,True,True,True,True,True,False,True,False,False,False,False,5days Battery
+809,French Connection E17 Smartwatch,3325,4.4,False,True,False,True,Bluetooth 5.0,True,1.69,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,5days Battery
+810,Apple Watch Pro,45990,4.45,False,True,True,True,Bluetooth 5.2,False,2.0,True,,32.0,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,
+811,Amazfit GTR 4 Smartwatch,15699,4.4,True,True,True,False,Bluetooth 5.0,True,1.43,True,,,False,False,True,True,False,True,True,True,True,True,True,False,False,False,False,
+812,Gionee StylFit GSW10 Pro Smartwatch,2999,4.35,False,False,False,False,Bluetooth,False,1.7,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,7days Battery
+813,Dizo Watch R Talk,1999,4.55,False,False,False,False,Bluetooth 5.2,True,1.3,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+814,Fitshot Crystal Smartwatch,1999,4.75,False,False,False,False,Bluetooth 5.2,True,1.8,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+815,Fitshot Flair Smartwatch,1999,4.1,False,False,False,False,Bluetooth,True,1.43,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+816,Alt Hype Smartwatch,999,4.25,False,False,False,False,Bluetooth,True,1.83,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,
+817,Alt OG Smartwatch,999,4.45,False,False,False,False,Bluetooth,False,1.69,True,,,False,False,True,True,False,True,True,True,False,True,False,False,False,False,False,7days Battery
+818,TAGG Verve Max Buzz Smartwatch,2999,4.45,False,False,False,False,Bluetooth 5.0,True,1.81,True,,,False,False,True,True,True,True,True,True,True,True,False,False,False,False,False,
+819,boAt Wave Beat Smartwatch,999,4.1,False,False,False,False,Bluetooth 5.0,False,1.65,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,10days Battery
+820,Pebble Cosmos Ultra Smartwatch,1499,4.75,False,False,False,False,Bluetooth 5.1,False,1.91,True,,,False,False,False,True,False,True,True,True,False,True,False,True,True,True,True,7days Battery
+821,boAt Watch Storm Pro Call Smartwatch,1699,4.3,False,False,False,False,Bluetooth 5.0,True,1.78,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+822,Fire Boltt Ninja Call Pro Smartwatch,1299,4.6,False,False,False,False,Bluetooth 5.0,True,1.69,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,
+823,Noise ColorFit Pro 5 Smartwatch,3300,4.4,False,False,False,False,Bluetooth 5.3,True,1.85,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+824,Inbase Urban Pro 2 Smartwatch,694,4.0,False,False,False,False,Bluetooth 5.0,True,1.7,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+825,boAt Watch Wave Style Smartwatch,999,4.2,False,False,False,False,Bluetooth 5.1,False,1.69,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+826,Sekyo ZS1 Smart Watch,1999,4.55,False,True,False,True,Bluetooth,False,1.44,True,,,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False,3days Battery
+827,Xiaomi Watch S1 Pro,12999,4.2,False,True,True,False,Bluetooth 5.0,True,1.47,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,15days Battery
+828,Fitshot Connect Smartwatch,1499,4.2,False,False,False,False,Bluetooth 5.1,True,1.85,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,7days Battery
+829,Samsung Galaxy Watch 5 LTE 40mm,32999,4.7,False,True,True,True,Bluetooth 5.2,False,1.2,True,1.5,16.0,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,
+830,Fire Boltt Epic Smartwatch,1099,4.25,False,False,False,False,Bluetooth 5.0,False,1.69,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+831,OnePlus Nord 45mm Smartwatch,10999,4.5,False,True,False,False,Bluetooth 5.2,True,1.7,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+832,pTron Pulsefit F21 Plus Smartwatch,1999,4.25,False,False,False,False,Bluetooth 5.0,False,1.7,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,11days Battery
+833,Samsung Galaxy Watch 5 LTE 44mm,34990,4.15,False,True,True,True,Bluetooth 5.2,False,1.4,True,1.5,16.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+834,boAt Watch Wave Select Smartwatch,999,4.5,False,False,False,False,Bluetooth 5.0,False,1.69,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,10days Battery
+835,Crossbeats Ignite Spectra Plus Smartwatch,3499,4.55,False,True,False,False,Bluetooth 5.2,True,1.78,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+836,Noise ColorFit Caliber 2 Buzz Smartwatch,1299,4.75,False,False,False,False,Bluetooth 5.3,True,1.8,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+837,Fossil  FTW6080I Smartwatch,11997,4.35,True,True,False,False,Bluetooth 5.0,True,1.28,True,1.0,,True,False,False,True,False,True,True,True,True,True,True,False,False,False,False,
+838,iAir W7 Smartwatch,1299,4.65,False,False,False,False,Bluetooth 5.0,True,1.75,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,0.125days Battery
+839,Tagg Verve Lite Smartwatch,1753,4.25,False,False,False,False,Bluetooth 5.0,False,1.69,True,,,False,False,False,True,False,True,True,True,False,True,False,True,True,True,True,10days Battery
+840,Noise ColorFit Vision Buzz Smartwatch,994,4.25,False,False,False,False,Bluetooth 5.1,True,1.75,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+841,Noise NoiseFit Core 2 Smartwatch,1099,4.25,False,False,False,False,Bluetooth 5.0,False,1.28,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,7days Battery
+842,Zebronics Iconic Smartwatch,2400,4.45,False,False,False,False,Bluetooth 5.0,True,1.8,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,7days Battery
+843,Huawei Watch 3 Pro ECG,25490,4.0,True,True,True,False,Bluetooth 5.1,True,1.43,True,2.0,16.0,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+844,Fire Boltt Wonder Smartwatch,1199,4.65,False,False,False,False,Bluetooth 5.0,True,1.8,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+845,Dizo Watch D Sharp,1599,4.45,False,False,False,False,Bluetooth 5.1,False,1.75,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,14days Battery
+846,boAt Wave Call Smartwatch,999,4.05,False,False,False,False,Bluetooth 5.0,True,1.69,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+847,Xiaomi Mibro X1 Sports Smartwatch,3999,4.75,False,False,False,False,Bluetooth 5.0,False,1.3,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,14days Battery
+848,Nothing Wrist 1 Smartwatch,6499,4.3,False,True,False,False,Bluetooth 5.1,True,1.69,True,,,False,True,False,True,True,True,True,True,True,True,True,False,False,False,False,
+849,Xiaomi Mibro A1 Smartwatch,3499,4.1,False,False,False,False,Bluetooth 5.0,False,1.28,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,10days Battery
+850,Amazfit GTS 4 Smartwatch,15999,4.3,False,True,False,False,Bluetooth 5.0,True,1.75,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+851,Realme Watch 3,3499,4.4,False,False,False,False,Bluetooth 5.3,True,1.8,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+852,Fire Boltt Phoenix Smartwatch,1349,4.1,False,False,False,False,Bluetooth 5.0,True,1.3,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+853,Crossbeats Ignite Spectra Smartwatch,2999,4.55,False,True,False,False,Bluetooth 5.2,True,1.78,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+854,Noise NoiseFit Evolve 2 Play Smartwatch,1199,4.05,False,False,False,False,Bluetooth 5.0,False,1.2,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,7days Battery
+855,Fastrack Reflex Play Smartwatch,3399,4.35,False,False,False,False,Bluetooth 5.0,True,1.3,True,,,False,True,True,True,True,True,True,True,True,True,False,False,False,False,False,
+856,Noise ColorFit Pulse 2 Smartwatch,1199,4.2,False,False,False,False,Bluetooth 5.0,False,1.8,True,,,False,False,False,True,False,True,True,True,False,True,False,True,True,True,True,
+857,Boult Cosmic Smartwatch,1199,4.25,False,False,False,False,Bluetooth 5.0,False,1.69,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,10days Battery
+858,Noise ColorFit Pulse Go Buzz Smartwatch,694,4.75,False,False,False,False,Bluetooth 5.1,False,1.7,True,,,False,False,False,False,False,True,True,True,True,True,False,True,True,True,True,
+859,Syska Pluto Smartwatch,1799,4.0,False,False,False,False,Bluetooth 5.0,False,1.69,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,10days Battery
+860,Kospet Tank M1 Pro Smartwatch,3999,4.6,False,False,False,False,Bluetooth 5.0,False,1.72,True,,,False,True,True,True,True,True,True,True,True,True,False,False,False,False,False,10days Battery
+861,Itel Smartwatch 1,1999,4.7,False,False,False,False,Bluetooth 5.0,True,1.72,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+862,Itel Smartwatch 1 ES,1999,4.25,False,False,False,False,Bluetooth 5.0,False,1.7,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,15days Battery
+863,Xiaomi Kieslect KR Smartwatch,2999,4.7,False,False,False,False,Bluetooth 5.0,False,1.32,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,4days Battery
+864,Maimo Watch R,2999,4.2,False,True,False,False,Bluetooth 5.0,True,1.3,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+865,Imilab W12 Smartwatch,3190,4.55,False,False,False,False,Bluetooth 5.0,False,1.32,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,15days Battery
+866,Noise ColorFit Pulse 2 Buzz Smartwatch,2999,4.4,False,False,False,False,Bluetooth 5.1,False,1.69,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,15days Battery
+867,Oppo Watch 3,19990,4.4,False,True,True,True,Bluetooth 5.0,True,1.75,True,1.0,32.0,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,
+868,boAt Watch Xtend Pro Smartwatch,1899,4.05,False,False,False,False,Bluetooth 5.0,True,1.78,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+869,boAt Watch Storm Pro Smartwatch,1099,4.6,False,False,False,False,Bluetooth 5.2,False,1.78,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,7days Battery
+870,Emmqura Ultra Pro Plus Smartwatch,413,4.5,False,False,False,False,Bluetooth,False,,True,,,False,False,False,True,False,True,False,True,True,False,False,True,False,False,True,2days Battery
+871,Boult Drift Smartwatch,1099,4.0,False,False,False,False,Bluetooth 5.0,True,1.69,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,
+872,Noise ColorFit Pro 4 Max Smartwatch,1399,4.15,False,False,False,False,Bluetooth 5.3,True,1.8,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+873,Fire Boltt Visionary Smartwatch,2194,4.75,False,False,False,False,Bluetooth 5.0,True,1.78,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,5days Battery
+874,Noise Champ 2 Smartwatch,1999,4.5,False,False,False,False,Bluetooth,False,1.4,True,,,False,False,False,False,False,True,True,True,False,False,False,True,True,True,True,7days Battery
+875,pTron Pulsefit Pro Smartwatch,1999,4.0,False,False,False,False,Bluetooth 5.0,False,1.69,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,7days Battery
+876,Amazfit Bip 3 Pro Smartwatch,2999,4.4,False,True,False,False,Bluetooth 5.0,False,1.69,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,14days Battery
+877,Noise ColorFit Vision 2 Smartwatch,1399,4.3,False,False,False,False,Bluetooth 5.1,False,1.78,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+878,Crossbeats Ignite Atlas Smartwatch,2699,4.3,False,True,False,False,Bluetooth 5.0,True,1.69,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+879,Noise ColorFit Caliber Buzz Smartwatch,1179,4.55,False,False,False,False,Bluetooth 5.3,True,1.69,True,,,False,True,False,True,False,False,True,True,False,True,False,False,False,False,False,
+880,Maxima Max Pro Turbo Smartwatch,694,4.25,False,False,False,False,Bluetooth,True,1.69,True,,,False,False,False,True,False,True,True,True,False,True,False,True,True,True,True,
+881,Wearfit Active Plus Call Smartwatch,2495,4.5,False,False,False,False,Bluetooth 5.0,True,1.69,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,5days Battery
+882,Crossbeats Orbit Styl Smartwatch,1499,4.5,False,False,False,False,Bluetooth 5.0,False,1.4,True,,,False,False,False,True,True,True,True,True,False,True,False,True,True,True,True,15days Battery
+883,Zeblaze Thor 6 Smartwatch,24899,4.5,False,False,False,False,Bluetooth 5.0,True,1.6,True,4.0,,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,0.25days Battery
+884,Samsung Galaxy Watch 4 Black Yak Edition 44mm,19990,4.6,True,True,True,False,Bluetooth 5.0,False,1.4,True,1.5,16.0,True,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+885,Titan Smart 2 Smartwatch,2994,4.5,False,False,False,False,Bluetooth,False,1.78,True,,,False,False,False,True,False,True,True,True,False,True,False,True,True,True,True,7days Battery
+886,Zebronics Zeb-Drip Smartwatch,1350,4.35,False,False,False,False,Bluetooth 5.0,True,1.69,True,,,False,False,False,True,True,True,True,True,True,True,False,True,True,True,True,
+887,Amazfit Bip 3 Smartwatch,2400,4.3,False,False,False,False,Bluetooth 5.0,False,1.69,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,
+888,Ambrane Wise Roam Smartwatch,1499,4.3,False,False,False,False,Bluetooth,True,1.28,True,,,False,False,False,True,True,True,True,True,False,True,False,False,False,False,False,10days Battery
+889,boAt Wave Connect Smartwatch,1299,4.1,False,False,False,False,Bluetooth 5.1,True,1.69,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+890,Dizo Watch D Smartwatch,1999,4.1,False,False,False,False,Bluetooth 5.1,False,1.8,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,14days Battery
+891,TAGG Verve NEO Rohit Sharma Edition Smartwatch,2499,4.2,False,True,False,False,Bluetooth 5.0,False,1.69,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,10days Battery
+892,Fire Boltt Ninja Bell Smartwatch,1299,4.35,False,False,False,False,Bluetooth,True,1.69,True,,,False,False,True,True,False,True,True,True,False,True,False,False,False,False,False,
+893,Ticwatch GTW eSIM Smartwatch,12450,4.55,False,False,False,False,Bluetooth,True,1.39,True,,,True,False,False,True,False,True,True,True,False,False,False,False,False,False,False,7days Battery
+894,Fastrack Reflex Smartwatch,3597,4.35,False,False,False,False,Bluetooth,False,1.18,True,,,False,False,False,True,False,True,True,True,False,True,False,False,True,True,True,
+895,Dizo Watch 2i Sports,1921,4.2,False,False,False,False,Bluetooth,False,1.69,True,,,False,False,False,True,False,True,False,True,False,True,False,True,True,True,True,20days Battery
+896,Hammer Pulse 4.0 Smartwatch,1999,4.6,False,False,False,False,Bluetooth,True,1.28,True,,,False,False,False,True,True,True,True,True,False,True,False,False,False,False,False,8days Battery
+897,Amazfit T-Rex 2 Smartwatch,15999,4.4,False,True,False,False,Bluetooth 5.0,False,1.39,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,24days Battery
+898,French Connection F7 Smartwatch,2199,4.4,False,False,False,False,Bluetooth 5.0,False,1.69,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,10days Battery
+899,Syska Polar SW300 Smartwatch,3499,4.25,False,False,False,False,Bluetooth 5.0,False,1.32,True,,,True,False,True,True,False,True,True,True,True,True,False,False,False,False,False,
+900,Realme Techlife Watch SZ100 Smartwatch,2699,4.3,False,False,False,False,Bluetooth,True,1.69,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,12days Battery
+901,Fire Boltt Tornado Smartwatch,1399,4.4,False,False,False,False,Bluetooth 5.0,True,1.72,True,,,True,False,True,True,False,False,False,False,False,True,False,False,False,False,False,
+902,Noise Colorfit Pulse Buzz Smartwatch,1599,4.25,False,False,False,False,Bluetooth,True,1.69,True,,,False,False,True,True,False,True,True,True,False,True,False,False,False,False,False,
+903,Fire Boltt Ninja 3 Smartwatch,1099,4.75,False,False,False,False,Bluetooth,False,1.69,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+904,Fire Boltt Talk 2 Smartwatch,1499,4.15,False,False,False,False,Bluetooth,True,1.28,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+905,Crossbeats Ignite S5 Smartwatch,2999,4.25,False,False,False,False,Bluetooth 5.3,True,1.96,True,,,False,True,True,True,True,True,True,True,True,True,True,False,False,False,False,
+906,boAt Watch Wave Neo Smartwatch,999,4.55,False,False,False,False,Bluetooth 5.1,False,1.69,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,7days Battery
+907,Inbase Urban LYF M Smartwatch,694,4.35,False,False,False,False,Bluetooth 5.0,False,1.69,True,,,False,False,False,True,True,True,True,True,False,True,False,True,True,True,True,
+908,Ambrane Wise Eon Smartwatch,1499,4.7,False,False,False,False,Bluetooth 5.0,True,1.69,True,,,False,True,False,True,True,True,True,True,False,True,False,False,False,False,False,
+909,Maxima Max Pro X1 Smartwatch,1399,4.75,False,False,False,False,Bluetooth 5.0,False,1.4,True,,,False,False,False,True,False,True,True,True,False,True,False,False,False,False,False,9days Battery
+910,Amazfit T-Rex Pro 2 Smartwatch,19999,4.75,False,True,False,False,Bluetooth 5.0,False,1.3,True,0.03125,,True,False,False,True,False,True,True,True,False,True,False,False,True,False,True,
+911,Apple Watch SE 2nd Generation 40mm GPS,28900,4.7,True,True,False,False,Bluetooth 5.0,True,1.57,True,,32.0,True,False,False,True,False,True,True,True,True,True,True,False,False,False,False,
+912,boAt Wave Fit Smartwatch,1199,4.15,True,False,False,False,Bluetooth 5.0,False,1.69,True,,,False,True,False,True,False,True,True,True,True,True,False,False,True,True,True,
+913,Fitbit Sense 2 Smartwatch,21599,4.35,True,True,False,False,Bluetooth 5.0,False,1.58,True,,,False,True,True,True,False,True,True,True,True,True,True,False,False,False,False,6days Battery
+914,Fitbit Versa 4 Smartwatch,16799,4.7,True,True,True,False,Bluetooth 5.0,True,1.58,True,,,False,True,False,True,True,True,True,True,True,True,True,False,False,False,False,
+915,Crossbeats Ignite LYT Smartwatch,1399,4.25,False,True,False,False,Bluetooth,False,1.69,True,,,False,False,False,True,True,True,True,True,False,True,False,False,True,True,True,15days Battery
+916,boAt Watch Primia Smartwatch,1899,4.05,False,False,False,False,Bluetooth,True,1.39,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+917,Fcuk Fit Pro Smartwatch,7999,4.35,False,False,False,False,Bluetooth 5.0,False,1.69,True,,,False,False,False,True,True,True,True,True,False,True,False,False,False,False,False,15days Battery
+918,Poco Watch,3999,4.7,False,True,False,False,Bluetooth 5.0,False,1.6,True,,,False,False,False,True,False,False,False,True,False,True,False,False,False,False,False,
+919,Wings Strive 200 Smartwatch,4999,4.4,False,False,False,False,Bluetooth 5.0,False,1.69,True,,,False,True,True,True,True,True,True,True,True,True,False,False,False,False,False,10days Battery
+920,Wings Strive 100 Smartwatch,3999,4.1,False,False,False,False,Bluetooth 5.0,False,1.4,True,,,False,False,True,True,True,True,True,True,True,True,False,False,False,False,False,10days Battery
+921,Samsung Galaxy Watch 5 Pro Bluetooth,24999,4.45,False,True,True,False,Bluetooth 5.2,True,1.4,True,,16.0,True,True,True,True,True,False,False,False,False,True,False,False,False,False,False,
+922,Timex Fit 2.0 Smartwatch (Square),3716,4.5,False,False,False,False,Bluetooth,True,1.72,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+923,Noise Colorfit Ultra Buzz Smartwatch,1094,4.7,False,False,False,False,Bluetooth 5.1,True,1.75,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+924,Garmin D2 Mach 1 Aviator Smartwatch,55990,4.5,True,True,False,False,Bluetooth,False,1.3,True,,32.0,True,True,True,True,True,True,True,True,True,True,False,False,False,False,False,
+925,TAGG Kronos II Smartwatch,2846,4.0,False,False,False,False,Bluetooth 5.0,False,1.32,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,7days Battery
+926,Ambrane FitShot Flex Smartwatch,1799,4.05,False,False,False,False,Bluetooth,False,1.69,True,,,False,False,False,True,True,True,True,True,False,True,False,True,True,True,True,7days Battery
+927,Michael Bans Evo Curve Smartwatch,2023,4.35,False,False,False,False,Bluetooth,False,1.75,True,,,False,False,False,True,False,True,True,True,True,False,False,True,False,True,False,7days Battery
+928,Sekyo Secura 4G Lite Smartwatch,3400,4.05,False,True,False,False,Bluetooth,True,1.4,True,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,
+929,Realme TechLife Watch S100,2499,4.35,False,False,False,False,Bluetooth 5.1,False,1.69,True,,,False,False,False,True,False,True,True,True,False,True,False,True,True,True,True,12days Battery
+930,Xiaomi Watch S1 Active,12990,4.6,False,False,True,False,Bluetooth 5.2,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+931,Garmin Descent G1 Smartwatch,45799,4.25,False,True,True,False,Bluetooth,False,0.9,True,,,True,True,True,True,False,True,True,True,True,True,True,False,False,False,False,
+932,boAt Wave Pro 47 Smartwatch,999,4.15,False,False,False,False,Bluetooth,False,1.69,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+933,Turet ‎Raspberry Smartwatch,4702,4.05,False,True,False,False,,True,1.3,True,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,
+934,Dizo Watch 2 Sports,1499,4.65,False,False,False,False,Bluetooth 5.0,False,1.69,True,,,False,True,False,True,False,True,True,True,True,True,False,True,True,True,True,
+935,GOQii Smart Vital Max Smartwatch,2099,4.5,False,False,False,False,Bluetooth 5.0,False,1.69,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,7days Battery
+936,Fire Boltt Ninja Calling Smartwatch,1849,4.55,False,False,False,False,Bluetooth,True,1.69,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+937,Garmin Instinct 2S Solar Smartwatch,44999,4.65,False,True,False,False,Bluetooth,False,0.79,True,,,True,False,False,True,True,True,True,True,True,True,True,False,False,False,False,Unlimited Battery
+938,FLix Beetel S12 Pro Talkon Smartwatch,2924,4.05,False,False,False,False,Bluetooth 5.0,True,1.54,True,,,False,False,True,True,True,True,True,True,True,True,False,False,False,False,False,
+939,Noise ColorFit Pulse Grand Smartwatch,1199,4.25,False,False,False,False,Bluetooth,False,1.69,True,,,False,False,False,True,True,True,True,True,True,True,False,True,True,True,True,7days Battery
+940,Noise NoiseFit Active GPS Smartwatch,1499,4.25,False,True,False,False,Bluetooth 5.0,False,1.28,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+941,Hammer Pulse 3.0 Smartwatch,1499,4.0,False,False,False,False,Bluetooth,True,1.69,True,,,False,False,False,True,True,False,True,True,True,True,False,False,False,False,False,7days Battery
+942,Fire Boltt Ninja Pro Max Smartwatch,1099,4.1,False,False,False,False,Bluetooth 5.0,False,1.6,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,8days Battery
+943,Titan Smart Pro Smartwatch,7994,4.65,False,True,False,False,Bluetooth,False,1.69,True,,,False,False,False,True,True,True,True,True,True,True,True,True,True,True,True,14days Battery
+944,Realme Watch S100,4999,4.55,False,False,False,False,Bluetooth,False,,True,,,False,False,False,True,False,True,False,True,False,True,False,False,False,True,False,
+945,Fire Boltt Ninja Call 2 Smartwatch,1199,4.05,False,False,False,False,Bluetooth 5.0,True,1.69,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,
+946,Minix Voice Smartwatch,5999,4.0,False,False,False,False,Bluetooth 4.0,True,1.69,True,,,False,False,True,True,True,True,True,True,False,True,False,False,False,False,False,
+947,Fastrack Reflex Vox Smartwatch,1024,4.25,False,False,False,False,Bluetooth,False,1.69,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,10days Battery
+948,Portronics Kronos X1 Smartwatch,694,4.1,False,False,False,False,Bluetooth 5.0,False,1.7,True,,,False,False,False,True,False,True,True,True,True,True,False,False,True,False,True,
+949,Noise ColorFit Icon Buzz Smartwatch,999,4.65,False,False,False,False,Bluetooth 5.1,True,1.69,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+950,Zebronics ZEB-FIT8220CH Smartwatch,1500,4.5,False,False,False,False,Bluetooth 5.1,False,1.69,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,7days Battery
+951,pTron Force X11 Smartwatch,1299,4.65,False,False,False,False,Bluetooth 5.0,True,1.7,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+952,TAGG Verve Active Smartwatch,2399,4.65,False,False,False,False,Bluetooth 5.0,False,1.7,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,8days Battery
+953,Vivo Watch 2 iQOO,13990,4.6,False,True,True,False,Bluetooth 5.2,True,1.43,True,,4.0,True,False,False,True,False,False,False,False,False,True,False,False,False,False,False,
+954,Activfit Xtreme Smartwatch,1899,4.0,False,False,False,False,,False,,False,,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,10days Battery
+955,boAt Watch Matrix Smartwatch,1199,4.7,False,False,False,False,Bluetooth 5.0,False,1.65,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+956,Garmin Venu 2 Plus Smartwatch,46990,4.25,True,True,False,False,Bluetooth,True,1.3,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,9days Battery
+957,Cellecor ActFit A3 Pro Smartwatch,2144,4.5,False,False,False,False,Bluetooth 5.0,False,1.28,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,10days Battery
+958,Cellecor ActFit A1 Pro Smartwatch,1874,4.5,False,False,False,False,Bluetooth 5.0,False,1.69,True,,,False,False,True,True,False,True,True,True,False,True,False,False,False,False,False,10days Battery
+959,Styx NYX Smartwatch,694,4.3,False,False,False,False,Bluetooth,False,1.69,True,,,False,True,False,True,True,True,True,True,False,True,False,False,False,False,False,8days Battery
+960,Titan Smart Smartwatch,7799,4.6,False,False,False,False,Bluetooth,False,1.32,True,,,False,False,True,True,True,True,True,True,False,True,False,False,False,False,False,14days Battery
+961,Foxin FoxFit Active Smartwatch,2499,4.6,False,False,False,False,Bluetooth,False,1.4,True,,,False,True,False,True,True,True,True,True,False,True,False,False,False,False,False,15days Battery
+962,Portronics Kronos Y1 Smartwatch,3999,4.0,False,False,False,False,Bluetooth,True,1.75,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,7days Battery
+963,Noise ColorFit Caliber Smartwatch,999,4.5,False,False,False,False,Bluetooth,False,1.69,True,,,False,False,True,True,False,True,True,True,False,True,False,False,False,False,False,15days Battery
+964,Xiaomi Watch S1,11990,4.4,False,False,True,False,Bluetooth 5.2,True,1.43,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+965,Noise NoiseFit Buzz Smartwatch,1299,4.6,False,False,False,False,Bluetooth,True,1.32,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+966,Pebble Leap Smartwatch,3999,4.75,False,False,False,False,,False,,False,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,
+967,GOQii Smart Vital Plus Smartwatch,3499,4.75,False,False,False,False,Bluetooth,True,1.57,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+968,boAt Watch Mercury Smartwatch,1999,4.45,False,False,False,False,Bluetooth,True,1.54,True,,,False,False,False,True,False,True,True,True,True,False,False,True,True,True,True,10days Battery
+969,Noise Colorfit Ultra 2 Smartwatch,1394,4.65,False,False,False,False,Bluetooth,True,1.78,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,
+970,Huawei Watch D,31999,4.35,False,True,True,False,Bluetooth 5.1,True,1.64,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+971,boAt Watch Mystiq Smartwatch,999,4.3,False,False,False,False,Bluetooth 5.0,False,1.57,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,7days Battery
+972,Maxima Max Pro X5 Smartwatch,394,4.7,False,False,False,False,Bluetooth 5.0,False,1.7,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,15days Battery
+973,Gionee StylFit GSW5 Pro Smartwatch,1278,4.3,False,False,False,False,Bluetooth 5.1,False,1.69,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,8days Battery
+974,Rapz Active 300 Smartwatch,4979,4.35,False,False,False,False,Bluetooth,True,1.28,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+975,Gionee UFit 6 Smartwatch,1899,4.4,False,False,False,False,Bluetooth 5.1,False,1.7,True,,,False,False,False,True,False,True,False,True,True,True,True,True,True,True,True,3days Battery
+976,boAt Watch Xplorer O2 Smartwatch,999,4.25,False,True,False,False,Bluetooth,False,1.3,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,7days Battery
+977,Motorola Moto Watch 100,21967,4.05,False,True,False,False,Bluetooth 5.0,False,1.3,True,,,False,True,True,True,False,True,True,True,False,True,False,False,False,False,False,14days Battery
+978,Xiaomi Redmi Watch 2,4599,4.15,False,True,False,False,Bluetooth 5.2,True,1.75,True,,,False,True,False,True,False,True,True,True,False,True,False,False,False,False,False,
+979,Turet Buttercup Smartwatch,6999,4.5,True,True,False,False,Bluetooth,True,1.4,True,128.0,,True,False,False,False,False,False,True,True,True,False,False,False,False,False,False,
+980,Huawei Watch GT 3 46mm,14999,4.7,True,True,False,False,Bluetooth 5.2,True,1.43,True,,4.0,True,False,False,True,False,True,True,True,True,True,True,False,False,False,False,
+981,Gionee Stylfit GSW10 Smartwatch,1399,4.5,False,False,False,False,Bluetooth 5.1,False,1.69,True,,,False,False,False,True,False,True,False,True,True,True,False,False,False,False,False,8days Battery
+982,Sekyo Magic Pro Smartwatch,1799,4.1,False,True,False,False,Bluetooth,True,1.42,True,,,False,False,False,False,False,True,True,True,True,False,False,True,False,True,False,
+983,TAGG Verve Neo Smartwatch,899,4.4,False,False,False,False,Bluetooth 5.0,False,1.69,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,10days Battery
+984,Corseca Sportivo Smartwatch,6499,4.6,False,False,False,False,Bluetooth,False,1.69,True,,,False,False,False,True,True,True,True,True,True,True,False,False,True,True,True,20days Battery
+985,Realme Watch T1,8499,4.05,False,True,True,False,Bluetooth 5.0,True,1.3,True,,4.0,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+986,French Connection L19 Smartwatch,1999,4.6,False,False,False,False,Bluetooth 4.0,True,1.3,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,15days Battery
+987,Apple Watch Series 7 Stainless Steel 45 mm (GPS + Cellular),77900,4.05,True,True,False,False,Bluetooth 5.0,True,1.77,True,,32.0,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+988,Apple Watch Series 7 Stainless Steel 41 mm (GPS + Cellular),69900,4.45,True,True,False,False,Bluetooth 5.0,True,1.61,True,,32.0,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+989,TicWatch Pro X,29999,4.35,True,True,True,False,Bluetooth 5.0,False,1.39,True,1.0,8.0,True,True,False,True,False,True,True,True,True,True,False,False,False,False,False,
+990,Amazfit GTS 3 Smartwatch,8399,4.05,False,True,False,False,Bluetooth 5.1,False,1.75,True,,,False,True,False,True,False,True,True,True,True,True,True,False,False,False,False,12days Battery
+991,Apple Watch Series 7 45mm (GPS + Cellular),53900,4.0,True,True,False,False,Bluetooth 5.0,True,1.77,True,1.0,32.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+992,Crossbeats Ignite Pro  Smartwatch,1799,4.1,False,False,False,False,Bluetooth 5.0,True,1.7,True,,,False,False,True,True,False,True,True,True,True,True,False,False,False,False,False,
+993,Apple Watch Series 7 GPS 45 mm,44900,4.65,True,True,False,False,Bluetooth 5.0,True,1.77,True,1.0,32.0,True,True,True,True,False,False,False,False,False,True,False,False,False,False,False,
+994,Apple Watch Series 7 41mm (GPS + Cellular),50900,4.65,True,True,False,False,Bluetooth 5.0,True,1.61,True,1.0,32.0,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,
+995,Amazfit GTR 3 Pro Smartwatch,13399,4.05,False,True,True,False,Bluetooth 5.1,True,1.45,True,,,False,False,True,True,True,True,True,True,True,True,True,False,False,False,False,
+996,TicWatch GTH Pro Smartwatch,8999,4.3,False,True,False,False,Bluetooth 5.0,False,1.55,True,,,False,True,True,True,True,True,True,True,True,True,False,False,False,False,False,10days Battery
+997,Vivo Watch 2,18999,4.5,False,True,True,False,Bluetooth 5.2,True,1.43,True,,4.0,True,False,False,True,False,False,False,False,False,True,False,False,False,False,False,
+998,French Connection Q26 Smartwatch,1999,4.5,False,False,False,False,Bluetooth,False,1.7,True,,,False,False,False,True,True,False,True,True,True,True,False,False,True,True,True,10days Battery
+999,Xiaomi Mi Watch Color 2,12999,4.45,True,True,True,False,Bluetooth 5.0,False,1.43,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,12days Battery
+1000,Huawei Watch Fit Smartwatch,4900,4.25,False,True,True,False,Bluetooth 5.0,False,1.64,True,,,False,False,False,True,False,True,True,True,True,True,False,True,True,True,True,10days Battery
+1001,Fire Boltt Almighty BSW013 Smartwatch,2499,4.55,False,False,False,False,Bluetooth 5.0,True,1.4,True,,,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,10days Battery
+1002,eOnz North Edge X Brick Smartwatch,694,4.25,False,False,False,False,Bluetooth 4.0,False,1.54,True,,,True,False,False,True,True,True,False,True,True,False,False,False,False,False,False,7days Battery
+1003,Oppo Watch Free,4399,4.05,False,True,False,False,Bluetooth 5.0,False,1.64,True,,,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,14days Battery
+1004,Zebronics ZEB-FIT7220CH Smartwatch,1999,4.75,False,False,False,False,Bluetooth 5.0,True,1.75,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+1005,Noise NoiseFit Agile Smartwatch,3199,4.35,False,False,False,False,Bluetooth,False,1.28,True,,,False,False,False,True,False,True,True,True,True,True,False,False,True,False,False,7days Battery
+1006,Fire Boltt Max Smartwatch,1399,4.05,False,False,False,False,Bluetooth 5.0,False,1.78,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,8days Battery
+1007,Dizo Watch Pro,5999,4.35,False,True,False,False,Bluetooth 5.0,False,1.75,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,14days Battery
+1008,Honor Watch GS 3,14999,4.0,False,True,False,False,Bluetooth 5.0,True,1.43,True,0.03125,4.0,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,
+1009,Timex Fit 2.0 Smartwatch,4196,4.2,False,False,False,False,Bluetooth 5.0,True,1.3,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+1010,Fossil Gen 6 Smartwatch,11997,4.55,True,True,True,False,Bluetooth 5.0,True,1.28,True,1.0,8.0,True,False,False,True,False,True,True,True,True,True,True,False,False,False,False,
+1011,Samsung Galaxy Watch 4 Classic LTE 42mm,36999,4.35,True,True,True,False,Bluetooth 5.0,False,1.2,True,1.5,16.0,True,True,True,True,False,False,False,False,False,True,False,False,False,False,False,
+1012,Motorola Moto 360 (3rd Gen) Smartwatch,15999,4.4,True,True,True,False,Bluetooth 4.2,False,1.2,True,1.0,8.0,True,True,True,True,False,True,True,True,True,False,False,False,False,False,False,
+1013,WatchOut Next-Gen Kids Smartwatch,8492,4.2,True,True,False,False,Bluetooth,True,,True,,,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,
+1014,Zebronics ZEB-FIT5220CH Smartwatch,2499,4.6,False,False,False,False,Bluetooth 5.0,False,1.75,True,,,False,False,False,True,True,True,True,True,True,True,False,True,True,True,True,
+1015,Fire Boltt Mercury BSW006 Smartwatch,1999,4.7,False,False,False,False,Bluetooth 5.0,True,1.7,True,,,False,True,True,True,False,True,True,True,True,True,False,False,False,False,False,
+1016,Maxima Max Pro X4 Smartwatch,1599,4.05,False,False,False,False,Bluetooth 5.0,False,1.3,True,,,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,15days Battery
+1017,FCUK Series 2 Smartwatch,2231,4.3,False,False,False,False,Bluetooth 5.0,True,1.69,True,,,False,True,False,True,True,True,True,True,True,True,False,False,False,False,False,
+1018,Pebble Cosmos Smartwatch,3999,4.35,False,False,False,False,Bluetooth 5.0,True,1.7,True,,,False,True,False,True,True,True,True,True,False,True,False,False,False,False,False,
+1019,Noise ColorFit Qube Smartwatch,999,4.2,False,False,False,False,Bluetooth 5.1,False,1.4,True,,,False,False,True,True,True,True,True,True,False,True,False,False,False,False,False,7days Battery

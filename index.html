@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Bargain Hunter Chatbot</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+        
+        :root {
+            /* Night theme (default) */
+            --bg-gradient: radial-gradient(ellipse at bottom, #1B2735 0%, #090A0F 100%);
+            --text-primary: #fff;
+            --text-secondary: #e2e8f0;
+            --text-muted: rgba(255, 255, 255, 0.5);
+            --chat-bg: rgba(25, 30, 45, 0.8);
+            --glass-bg: rgba(255, 255, 255, 0.1);
+            --glass-border: rgba(255, 255, 255, 0.2);
+            --input-bg: rgba(255, 255, 255, 0.1);
+            --input-border: rgba(255, 255, 255, 0.2);
+            --scrollbar-thumb: rgba(79, 70, 229, 0.6);
+            --user-msg-bg: linear-gradient(135deg, #6366F1, #4F46E5);
+            --bot-msg-bg: linear-gradient(135deg, #334155, #1E293B);
+            --shadow: 0 8px 32px rgba(31, 38, 135, 0.3);
+            --neon-glow: 0 0 10px rgba(99, 102, 241, 0.8), 0 0 20px rgba(99, 102, 241, 0.6);
+        }
+
+        body.day {
+            /* Day theme */
+            --bg-gradient: radial-gradient(ellipse at top, #E0F2FE 0%, #FFF7ED 100%);
+            --text-primary: #1F2937;
+            --text-secondary: #4B5563;
+            --text-muted: rgba(31, 41, 55, 0.6);
+            --chat-bg: rgba(255, 255, 255, 0.9);
+            --glass-bg: rgba(255, 255, 255, 0.7);
+            --glass-border: rgba(0, 0, 0, 0.1);
+            --input-bg: rgba(243, 244, 246, 0.8);
+            --input-border: rgba(0, 0, 0, 0.1);
+            --scrollbar-thumb: rgba(99, 102, 241, 0.6);
+            --user-msg-bg: linear-gradient(135deg, #60A5FA, #3B82F6);
+            --bot-msg-bg: linear-gradient(135deg, #E5E7EB, #D1D5DB);
+            --shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            --neon-glow: 0 0 10px rgba(59, 130, 246, 0.8), 0 0 20px rgba(59, 130, 246, 0.6);
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: var(--bg-gradient);
+            color: var(--text-primary);
+            transition: all 0.5s ease;
+        }
+        
+        .glass-morphism {
+            background: var(--glass-bg);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border: 1px solid var(--glass-border);
+            box-shadow: var(--shadow);
+        }
+        
+        .chat-container {
+            height: 65vh;
+            overflow-y: auto;
+            background: var(--chat-bg);
+            border-radius: 16px;
+            padding: 20px;
+            box-shadow: var(--shadow);
+            scroll-behavior: smooth;
+        }
+        
+        .chat-container::-webkit-scrollbar {
+            width: 6px;
+        }
+        
+        .chat-container::-webkit-scrollbar-track {
+            background: var(--glass-bg);
+            border-radius: 10px;
+        }
+        
+        .chat-container::-webkit-scrollbar-thumb {
+            background: var(--scrollbar-thumb);
+            border-radius: 10px;
+        }
+        
+        .chat-message {
+            margin: 12px 0;
+            padding: 12px 18px;
+            border-radius: 18px;
+            max-width: 80%;
+            word-wrap: break-word;
+            position: relative;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        .user-message {
+            background: var(--user-msg-bg);
+            color: var(--text-primary);
+            margin-left: auto;
+            border-bottom-right-radius: 4px;
+        }
+        
+        .bot-message {
+            background: var(--bot-msg-bg);
+            color: var(--text-secondary);
+            border-bottom-left-radius: 4px;
+        }
+        
+        .bot-message::before {
+            content: "";
+            position: absolute;
+            left: -8px;
+            bottom: 0;
+            width: 20px;
+            height: 20px;
+            background: var(--bot-msg-bg);
+            border-bottom-left-radius: 16px;
+            z-index: -1;
+        }
+        
+        .user-message::after {
+            content: "";
+            position: absolute;
+            right: -8px;
+            bottom: 0;
+            width: 20px;
+            height: 20px;
+            background: var(--user-msg-bg);
+            border-bottom-right-radius: 16px;
+            z-index: -1;
+        }
+        
+        .message-animation {
+            animation: fadeInUp 0.5s ease-out forwards;
+        }
+        
+        @keyframes fadeInUp {
+            from { 
+                opacity: 0; 
+                transform: translateY(20px); 
+            }
+            to { 
+                opacity: 1; 
+                transform: translateY(0); 
+            }
+        }
+        
+        .pulse-animation {
+            animation: pulse 1.5s infinite;
+        }
+        
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+            100% { transform: scale(1); }
+        }
+        
+        .typing-indicator {
+            display: flex;
+            align-items: center;
+            padding: 8px 16px;
+            background: var(--glass-bg);
+            border-radius: 18px;
+            width: fit-content;
+            margin-bottom: 10px;
+        }
+        
+        .typing-indicator span {
+            width: 8px;
+            height: 8px;
+            background-color: var(--text-muted);
+            border-radius: 50%;
+            display: inline-block;
+            margin: 0 2px;
+        }
+        
+        .typing-indicator span:nth-child(1) {
+            animation: bounce 1s infinite 0.1s;
+        }
+        
+        .typing-indicator span:nth-child(2) {
+            animation: bounce 1s infinite 0.3s;
+        }
+        
+        .typing-indicator span:nth-child(3) {
+            animation: bounce 1s infinite 0.5s;
+        }
+        
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-5px); }
+        }
+        
+        .input-container {
+            position: relative;
+            z-index: 10;
+        }
+        
+        .input-field {
+            background: var(--input-bg);
+            border: 1px solid var(--input-border);
+            color: var(--text-primary);
+            transition: all 0.3s ease;
+        }
+        
+        .input-field:focus {
+            background: rgba(255, 255, 255, 0.15);
+            border-color: rgba(99, 102, 241, 0.6);
+            box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.3);
+        }
+        
+        .input-field::placeholder {
+            color: var(--text-muted);
+        }
+        
+        .send-btn {
+            background: linear-gradient(135deg, #6366F1, #4F46E5);
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 10px rgba(79, 70, 229, 0.3);
+        }
+        
+        .send-btn:hover {
+            background: linear-gradient(135deg, #4F46E5, #4338CA);
+            transform: translateY(-2px);
+            box-shadow: 0 6px 15px rgba(79, 70, 229, 0.4);
+        }
+        
+        .send-btn:active {
+            transform: translateY(0);
+        }
+        
+        .animated-background {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            overflow: hidden;
+        }
+        
+        .star {
+            position: absolute;
+            background: rgba(255, 255, 255, 0.7);
+            border-radius: 50%;
+            animation: twinkle var(--duration) infinite ease-in-out;
+            opacity: 0;
+        }
+        
+        body.day .star {
+            background: rgba(0, 0, 0, 0.2);
+        }
+        
+        @keyframes twinkle {
+            0%, 100% { opacity: 0; }
+            50% { opacity: var(--opacity); }
+        }
+        
+        .brand-icon {
+            color: #6366F1;
+            margin-right: 12px;
+        }
+        
+        .feature-badge {
+            background: rgba(99, 102, 241, 0.2);
+            border: 1px solid rgba(99, 102, 241, 0.3);
+            color: #A5B4FC;
+            font-size: 0.7rem;
+            padding: 2px 8px;
+            border-radius: 12px;
+            margin-right: 6px;
+            display: inline-flex;
+            align-items: center;
+        }
+        
+        body.day .feature-badge {
+            background: rgba(59, 130, 246, 0.1);
+            border: 1px solid rgba(59, 130, 246, 0.3);
+            color: #3B82F6;
+        }
+        
+        .feature-badge i {
+            margin-right: 4px;
+            font-size: 0.65rem;
+        }
+        
+        /* Theme Switch Button */
+        .theme-toggle {
+            background: linear-gradient(135deg, #6366F1, #4F46E5);
+            padding: 0.5rem;
+            border-radius: 50%;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .theme-toggle:hover {
+            background: linear-gradient(135deg, #4F46E5, #4338CA);
+            transform: rotate(15deg) scale(1.1);
+            box-shadow: 0 6px 15px rgba(79, 70, 229, 0.4);
+        }
+        
+        .theme-toggle i {
+            transition: transform 0.3s ease;
+        }
+        
+        .theme-toggle.day i {
+            transform: rotate(360deg);
+        }
+
+        /* Developer Section */
+        .developer-container {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            display: flex;
+            gap: 15px;
+            z-index: 50;
+        }
+
+        .developer-ellipse {
+            width: 45px;
+            height: 45px;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+            font-family: 'Poppins', sans-serif;
+            font-weight: 600;
+            font-size: 18px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: var(--neon-glow);
+            animation: glowPulse 2s infinite ease-in-out;
+        }
+
+        .developer-ellipse:hover {
+            transform: scale(1.1);
+            box-shadow: 0 0 15px rgba(99, 102, 241, 1), 0 0 30px rgba(99, 102, 241, 0.8);
+        }
+
+        .developer-card {
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 0;
+            height: 0;
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            border-radius: 15px;
+            padding: 0;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.3s ease;
+            overflow: hidden;
+            font-family: 'Poppins', sans-serif;
+            color: #fff;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+        }
+
+        .developer-ellipse:hover .developer-card {
+            width: 240px;
+            height: 140px;
+            padding: 15px;
+            opacity: 1;
+            visibility: visible;
+        }
+
+        .developer-card h3 {
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 5px;
+            color: #e0e0e0;
+            text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+        }
+
+        .developer-card p {
+            font-size: 12px;
+            color: #d1d1d1;
+            margin-bottom: 3px;
+        }
+
+        .developer-card .social-links {
+            display: flex;
+            gap: 12px;
+            margin-top: 10px;
+        }
+
+        .developer-card .social-links a {
+            color: #fff;
+            font-size: 18px;
+            transition: all 0.3s ease;
+        }
+
+        .developer-card .social-links a:hover {
+            color: #a855f7;
+            transform: scale(1.2);
+            text-shadow: 0 0 10px rgba(168, 85, 247, 0.8);
+        }
+
+        /* Main Developer Highlight */
+        .main-developer {
+            background: linear-gradient(135deg, rgba(168, 85, 247, 0.3), rgba(99, 102, 241, 0.3));
+            border: 1px solid rgba(168, 85, 247, 0.5);
+            box-shadow: 0 0 15px rgba(168, 85, 247, 0.8), 0 0 30px rgba(168, 85, 247, 0.5);
+        }
+
+        .main-developer:hover {
+            box-shadow: 0 0 20px rgba(168, 85, 247, 1), 0 0 40px rgba(168, 85, 247, 0.8);
+        }
+
+        /* Glow Animation */
+        @keyframes glowPulse {
+            0%, 100% { box-shadow: var(--neon-glow); }
+            50% { box-shadow: 0 0 15px rgba(99, 102, 241, 1), 0 0 30px rgba(99, 102, 241, 0.8); }
+        }
+    </style>
+</head>
+<body>
+    <div class="animated-background" id="starBackground"></div>
+
+    <!-- Developer Section -->
+    <div class="developer-container">
+        <!-- Developer 1 (Main Developer) -->
+        <div class="developer-ellipse main-developer">
+            A
+            <div class="developer-card">
+                <h3>Ashish Krishna</h3>
+                <p>Reg No: 12309952</p>
+                <p>Roll No: 9</p>
+                <div class="social-links">
+                    <a href="https://linkedin.com/in/ashish888" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://github.com/ashishkrishna888" target="_blank"><i class="fab fa-github"></i></a>
+                </div>
+            </div>
+        </div>
+        <!-- Developer 2 -->
+        <div class="developer-ellipse">
+            H
+            <div class="developer-card">
+                <h3>Mohammed Hadi Shukoor</h3>
+                <p>Reg No: 12301210</p>
+                <p>Roll No: 53</p>
+                <div class="social-links">
+                    <a href="https://linkedin.com/in/priya" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://github.com/priya" target="_blank"><i class="fab fa-github"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="flex items-center justify-center min-h-screen p-4">
+        <div class="w-full max-w-3xl glass-morphism rounded-2xl p-6">
+            <div class="flex items-center justify-between mb-6">
+                <div class="flex items-center">
+                    <i class="fas fa-robot text-3xl brand-icon pulse-animation"></i>
+                    <div>
+                        <h1 class="text-2xl md:text-3xl font-bold">AI Bargain Hunter</h1>
+                        <div class="flex flex-wrap mt-2">
+                            <span class="feature-badge"><i class="fas fa-bolt"></i>Fast Results</span>
+                            <span class="feature-badge"><i class="fas fa-rupee-sign"></i>Best Prices</span>
+                            <span class="feature-badge"><i class="fas fa-shield-alt"></i>Verified Deals</span>
+                        </div>
+                    </div>
+                </div>
+                <button id="themeToggle" class="theme-toggle text-white" title="Toggle theme">
+                    <i class="fas fa-moon"></i>
+                </button>
+            </div>
+            
+            <div class="chat-container mb-4" id="chatContainer">
+                <div class="chat-message bot-message message-animation">
+                    <div class="flex items-center mb-1">
+                        <span class="text-xs text-gray-400">Bargain Bot</span>
+                        <span class="ml-2 text-xs bg-green-500 text-white px-1 rounded">online</span>
+                    </div>
+                    <p>Hello! I'm your AI shopping assistant. Search for any product (e.g., mobiles, tablets, laptops), and I'll find you the latest deals in India! 🛍️</p>
+                    <div class="text-xs text-gray-400 text-right mt-1">Just now</div>
+                </div>
+            </div>
+            
+            <div class="input-container">
+                <div class="flex items-center bg-gray-800 bg-opacity-50 rounded-xl p-1">
+                    <button class="text-gray-400 hover:text-indigo-400 p-2 rounded-full transition-colors">
+                        <i class="fas fa-microphone"></i>
+                    </button>
+                    <input type="text" id="userInput" class="flex-1 p-3 rounded-lg input-field focus:outline-none" placeholder="Type a product name...">
+                    <button id="sendBtn" class="send-btn p-3 rounded-lg text-white flex items-center justify-center">
+                        <i class="fas fa-paper-plane mr-2"></i>
+                        <span>Send</span>
+                    </button>
+                </div>
+                <div class="text-xs text-center text-gray-400 mt-4">
+                    Powered by AI • Searching Flipkart Deals • Updated Daily
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Create animated star background
+        function createStars() {
+            const background = document.getElementById('starBackground');
+            const numberOfStars = 100;
+            
+            for (let i = 0; i < numberOfStars; i++) {
+                const star = document.createElement('div');
+                star.classList.add('star');
+                
+                const x = Math.random() * 100;
+                const y = Math.random() * 100;
+                const size = Math.random() * 3;
+                const duration = 3 + Math.random() * 7;
+                const opacity = 0.3 + Math.random() * 0.7;
+                
+                star.style.left = `${x}%`;
+                star.style.top = `${y}%`;
+                star.style.width = `${size}px`;
+                star.style.height = `${size}px`;
+                star.style.setProperty('--duration', `${duration}s`);
+                star.style.setProperty('--opacity', opacity);
+                
+                background.appendChild(star);
+            }
+        }
+        
+        // Handle theme switching
+        function initThemeToggle() {
+            const themeToggle = document.getElementById('themeToggle');
+            const body = document.body;
+            let isDay = false;
+
+            themeToggle.addEventListener('click', () => {
+                isDay = !isDay;
+                body.classList.toggle('day', isDay);
+                themeToggle.classList.toggle('day', isDay);
+                themeToggle.innerHTML = `<i class="fas ${isDay ? 'fa-sun' : 'fa-moon'}"></i>`;
+            });
+        }
+        
+        // Handle chat functionality
+        function initChat() {
+            const chatContainer = document.getElementById('chatContainer');
+            const userInput = document.getElementById('userInput');
+            const sendBtn = document.getElementById('sendBtn');
+            
+            const responses = [
+                "I found some great deals on this! Here are the top 3 options:",
+                "Based on your search, here are some bargains you might like:",
+                "I've compared prices across Flipkart. Check these out:",
+                "Here are today's best deals for your search:"
+            ];
+            
+            function addMessage(message, isUser = false) {
+                const messageDiv = document.createElement('div');
+                messageDiv.classList.add('chat-message', 'message-animation');
+                
+                if (isUser) {
+                    messageDiv.classList.add('user-message');
+                    messageDiv.innerHTML = `
+                        <div class="flex items-center mb-1">
+                            <span class="text-xs text-gray-300">You</span>
+                        </div>
+                        <p>${message}</p>
+                        <div class="text-xs text-gray-300 text-right mt-1">Just now</div>
+                    `;
+                } else {
+                    messageDiv.classList.add('bot-message');
+                    messageDiv.innerHTML = `
+                        <div class="flex items-center mb-1">
+                            <span class="text-xs text-gray-400">Bargain Bot</span>
+                            <span class="ml-2 text-xs bg-green-500 text-white px-1 rounded">online</span>
+                        </div>
+                        <p>${message}</p>
+                        <div class="text-xs text-gray-400 text-right mt-1">Just now</div>
+                    `;
+                }
+                
+                chatContainer.appendChild(messageDiv);
+                chatContainer.scrollTop = chatContainer.scrollHeight;
+            }
+            
+            function addTypingIndicator() {
+                const typingDiv = document.createElement('div');
+                typingDiv.classList.add('typing-indicator');
+                typingDiv.id = 'typingIndicator';
+                typingDiv.innerHTML = `
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                `;
+                chatContainer.appendChild(typingDiv);
+                chatContainer.scrollTop = chatContainer.scrollHeight;
+            }
+            
+            function removeTypingIndicator() {
+                const typingIndicator = document.getElementById('typingIndicator');
+                if (typingIndicator) {
+                    typingIndicator.remove();
+                }
+            }
+            
+            function addDealsMessage(query, dealsData) {
+                const randomResponse = responses[Math.floor(Math.random() * responses.length)];
+                
+                let dealsHTML = `
+                    <div class="flex items-center mb-1">
+                        <span class="text-xs text-gray-400">Bargain Bot</span>
+                        <span class="ml-2 text-xs bg-green-500 text-white px-1 rounded">online</span>
+                    </div>
+                    <p>${randomResponse}</p>
+                    <div class="mt-3 space-y-3">
+                `;
+                
+                const deals = dealsData.match(/<div class='p-5 rounded-lg.*?<\/div>/gs) || [];
+                deals.forEach(deal => {
+                    const nameMatch = deal.match(/<p class='font-bold text-xl text-teal-700'>(.*?)<\/p>/);
+                    const priceMatch = deal.match(/💸 ₹([\d,]+)(?: <span class='line-through text-gray-400'>₹([\d,]+)<\/span> \(-(\d+)%\))?/);
+                    const sourceMatch = deal.match(/<a href='.*?' class='text-blue-600 hover:underline' target='_blank'>(.*?)<\/a>/);
+                    const specsMatch = deal.match(/<p class='text-sm text-gray-600 mt-1'>(.*?)<\/p>/);
+                    const ratingMatch = deal.match(/<p class='text-sm text-yellow-600 mt-1'>⭐ ([\d.]+)\/5<\/p>/);
+                    const topRatedMatch = deal.match(/<p class='text-green-600 font-bold mt-2'>🌟 Top Rated 🌟<\/p>/);
+                    const hotDealMatch = deal.match(/<p class='text-red-600 font-bold mt-2 animate-pulse'>🎉 Hot Deal Alert! 🎉<\/p>/);
+                    
+                    if (nameMatch && priceMatch && sourceMatch && specsMatch && ratingMatch) {
+                        const name = nameMatch[1];
+                        const price = `₹${priceMatch[1]}`;
+                        const originalPrice = priceMatch[2] ? `₹${priceMatch[2]}` : null;
+                        const discount = priceMatch[3] ? `-${priceMatch[3]}%` : null;
+                        const source = sourceMatch[1];
+                        const specs = specsMatch[1];
+                        const rating = ratingMatch[1];
+                        const isTopRated = !!topRatedMatch;
+                        const isHotDeal = !!hotDealMatch;
+                        
+                        dealsHTML += `
+                            <div class="bg-gray-800 bg-opacity-50 rounded-lg p-3">
+                                <div class="flex justify-between items-center">
+                                    <div class="font-medium">${name}</div>
+                                    ${discount ? `<div class="bg-green-600 text-white text-xs rounded px-2 py-1">${discount}</div>` : '<div class="bg-green-600 text-white text-xs rounded px-2 py-1">Best Deal</div>'}
+                                </div>
+                                <div class="mt-1 flex items-center">
+                                    <span class="text-xl font-bold">${price}</span>
+                                    ${originalPrice ? `<span class="ml-2 text-sm line-through text-gray-400">${originalPrice}</span>` : ''}
+                                </div>
+                                <div class="mt-1 text-sm text-gray-400">${specs}</div>
+                                <div class="mt-1 text-sm text-yellow-400">⭐ ${rating}/5</div>
+                                <div class="mt-2 flex justify-between items-center">
+                                    <span class="text-xs text-gray-400">Found on ${source}</span>
+                                    <a href="#" target="_blank" class="bg-indigo-600 hover:bg-indigo-700 text-white text-xs rounded px-3 py-1 transition-colors">View Deal</a>
+                                </div>
+                                ${isTopRated ? `<div class="mt-2 text-green-400 font-bold">🌟 Top Rated 🌟</div>` : ''}
+                                ${isHotDeal ? `<div class="mt-2 text-red-400 font-bold animate-pulse">🎉 Hot Deal Alert! 🎉</div>` : ''}
+                            </div>
+                        `;
+                    }
+                });
+                
+                dealsHTML += `
+                    </div>
+                    <div class="text-xs text-gray-400 text-right mt-3">Just now</div>
+                `;
+                
+                const messageDiv = document.createElement('div');
+                messageDiv.classList.add('chat-message', 'bot-message', 'message-animation');
+                messageDiv.innerHTML = dealsHTML;
+                
+                chatContainer.appendChild(messageDiv);
+                chatContainer.scrollTop = chatContainer.scrollHeight;
+            }      
+            
+            function handleSend() {
+                const message = userInput.value.trim();
+                if (!message) return;
+                
+                addMessage(message, true);
+                userInput.value = '';
+                
+                addTypingIndicator();
+                
+                fetch('api.php', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                    body: `query=${encodeURIComponent(message)}`
+                })
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! Status: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    removeTypingIndicator();
+                    if (data.message) {
+                        addDealsMessage(message, data.message);
+                    } else {
+                        addMessage('Oops, no deals found! Try another product.');
+                    }
+                })
+                .catch(error => {
+                    removeTypingIndicator();
+                    addMessage(`Error fetching deals: ${error.message}`);
+                });
+            }
+            
+            sendBtn.addEventListener('click', handleSend);
+            userInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') {
+                    handleSend();
+                }
+            });
+        }
+        
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            createStars();
+            initThemeToggle();
+            initChat();
+        });
+    </script>
+</body>
+</html>
