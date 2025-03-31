@@ -33,3 +33,31 @@ Watch a quick demo of the app in action:
    - Install Python 3.x for data preprocessing.
 2. **Setup**:
    - Clone this repository:
+   - - Move the project folder to `C:\xampp\htdocs\AI-Bargain-Hunter`.
+   - Start XAMPP and ensure Apache is running.
+3. **Preprocess Data**:
+   - Run the Python scripts to generate `products.json`:
+4. **Run the App**:
+   - Open your browser and go to `http://localhost/AI-Bargain-Hunter/`.
+   - Start searching for products (e.g., "gaming laptops", "earphones")!
+
+## 📝 Project Structure
+AI-Bargain-Hunter/
+│
+├── index.html          # Main HTML file
+├── api.php             # Backend API for handling queries
+├── append_earphones.py # Python script for earphones data
+├── append_laptops.py   # Python script for laptops data
+├── append_smartwatches.py # Python script for smartwatches data
+├── earphones.csv       # CSV file for earphones
+├── laptops.csv         # CSV file for laptops
+├── smartwatches.csv    # CSV file for smartwatches (if applicable)
+├── products.json       # JSON file with product data
+├── assets/             # Screenshots
+└── README.md           # Project documentation
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙌 Acknowledgments
+- Inspired by modern UI trends like glassmorphism and neon aesthetics.
